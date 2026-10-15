@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Mode,Customer_ID,Segment,Region,Category,Sub_Category,Sales,Quantity,Discount,Profit,Profit_Margin
+ORD-2026-0001,2025-01-01,Standard Class,CUST-146,Corporate,South,Office Supplies,Appliances,$248.80,9,0.1,-$10.69,-4.3%
+ORD-2026-0002,2025-01-01,Same Day,CUST-111,Corporate,West,Furniture,Bookcases,$222.05,8,0,$75.61,34.1%
+ORD-2026-0003,2025-01-02,Second Class,CUST-161,Home Office,East,Furniture,Chairs,$181.18,3,0,$29.67,16.4%
+ORD-2026-0004,2025-01-02,Standard Class,CUST-179,Consumer,East,Furniture,Furnishings,$37.24,3,0,$11.63,31.2%
+ORD-2026-0005,2025-01-03,Standard Class,CUST-182,Consumer,South,Technology,Phones,$19.14,2,0,$6.28,32.8%
+ORD-2026-0006,2025-01-04,Standard Class,CUST-107,Consumer,Central,Technology,Phones,$186.03,5,0,$67.68,36.4%
+ORD-2026-0007,2025-01-04,Standard Class,CUST-248,Home Office,West,Office Supplies,Paper,$205.73,4,0.1,$69.42,33.7%
+ORD-2026-0008,2025-01-05,First Class,CUST-180,Home Office,East,Furniture,Furnishings,$17.22,7,0,$3.06,17.8%
+ORD-2026-0009,2025-01-06,Second Class,CUST-217,Corporate,West,Technology,Copiers,$404.77,4,0,$28.54,7.1%
+ORD-2026-0010,2025-01-06,Second Class,CUST-297,Home Office,West,Furniture,Tables,$24.33,9,0.2,$7.41,30.5%
+ORD-2026-0011,2025-01-07,Standard Class,CUST-299,Corporate,Central,Furniture,Chairs,$60.51,2,0.5,$5.26,8.7%
+ORD-2026-0012,2025-01-08,Same Day,CUST-124,Corporate,East,Office Supplies,Art,$177.39,6,0.2,-$9.63,-5.4%
+ORD-2026-0013,2025-01-08,First Class,CUST-188,Consumer,West,Furniture,Bookcases,$37.93,7,0.5,$4.20,11.1%
+ORD-2026-0014,2025-01-09,Standard Class,CUST-111,Corporate,East,Technology,Machines,$18.55,4,0.1,$3.24,17.5%
+ORD-2026-0015,2025-01-09,Standard Class,CUST-242,Consumer,South,Office Supplies,Storage,$70.33,6,0,$24.47,34.8%
+ORD-2026-0016,2025-01-10,Standard Class,CUST-158,Home Office,South,Furniture,Furnishings,$227.85,7,0.1,$46.47,20.4%
+ORD-2026-0017,2025-01-11,Standard Class,CUST-253,Corporate,West,Technology,Phones,$90.08,4,0.2,$5.37,6.0%
+ORD-2026-0018,2025-01-11,Standard Class,CUST-208,Corporate,East,Furniture,Tables,$168.75,8,0,$64.65,38.3%
+ORD-2026-0019,2025-01-12,Standard Class,CUST-125,Consumer,West,Furniture,Chairs,$139.99,9,0,$42.11,30.1%
+ORD-2026-0020,2025-01-13,Standard Class,CUST-146,Consumer,East,Technology,Accessories,$13.37,1,0.2,$2.30,17.2%
+ORD-2026-0021,2025-01-13,Second Class,CUST-131,Consumer,East,Furniture,Chairs,$680.33,7,0,$31.61,4.6%
+ORD-2026-0022,2025-01-14,Standard Class,CUST-109,Consumer,Central,Office Supplies,Storage,$16.35,9,0.1,$1.28,7.8%
+ORD-2026-0023,2025-01-15,Standard Class,CUST-115,Consumer,Central,Office Supplies,Paper,$525.38,5,0,$123.46,23.5%
+ORD-2026-0024,2025-01-15,Standard Class,CUST-298,Home Office,Central,Furniture,Bookcases,$129.73,2,0.1,-$7.47,-5.8%
+ORD-2026-0025,2025-01-16,Standard Class,CUST-244,Corporate,West,Furniture,Chairs,$505.17,6,0.1,$12.89,2.6%
+ORD-2026-0026,2025-01-16,Second Class,CUST-250,Consumer,Central,Office Supplies,Paper,$28.28,7,0,$7.27,25.7%
+ORD-2026-0027,2025-01-17,Standard Class,CUST-125,Consumer,Central,Technology,Machines,$111.12,2,0,$15.56,14.0%
+ORD-2026-0028,2025-01-18,Standard Class,CUST-185,Consumer,South,Office Supplies,Storage,$37.86,2,0.1,$3.45,9.1%
+ORD-2026-0029,2025-01-18,Standard Class,CUST-234,Corporate,East,Office Supplies,Art,$17.85,1,0.2,-$0.35,-2.0%
+ORD-2026-0030,2025-01-19,Standard Class,CUST-113,Corporate,East,Furniture,Furnishings,$154.17,4,0.3,$13.05,8.5%
+ORD-2026-0031,2025-01-20,Second Class,CUST-178,Home Office,Central,Office Supplies,Paper,$44.94,7,0,$12.82,28.5%
+ORD-2026-0032,2025-01-20,Standard Class,CUST-216,Consumer,East,Furniture,Furnishings,$142.90,9,0.2,$3.66,2.6%
+ORD-2026-0033,2025-01-21,Standard Class,CUST-106,Home Office,South,Technology,Copiers,$27.88,3,0,-$2.71,-9.7%
+ORD-2026-0034,2025-01-22,First Class,CUST-236,Home Office,South,Furniture,Chairs,$70.52,7,0,$16.52,23.4%
+ORD-2026-0035,2025-01-22,Same Day,CUST-214,Consumer,Central,Furniture,Tables,$238.24,7,0,$92.04,38.6%
+ORD-2026-0036,2025-01-23,First Class,CUST-275,Home Office,South,Office Supplies,Binders,$96.19,7,0.1,$17.61,18.3%
+ORD-2026-0037,2025-01-23,Standard Class,CUST-171,Consumer,East,Furniture,Furnishings,$158.23,2,0,-$6.34,-4.0%
+ORD-2026-0038,2025-01-24,Standard Class,CUST-158,Home Office,West,Technology,Phones,$166.39,6,0,$10.04,6.0%
+ORD-2026-0039,2025-01-25,Second Class,CUST-181,Consumer,East,Office Supplies,Appliances,$288.45,2,0.1,$86.66,30.0%
+ORD-2026-0040,2025-01-25,Standard Class,CUST-215,Home Office,West,Furniture,Tables,$68.94,6,0.2,$0.90,1.3%
+ORD-2026-0041,2025-01-26,Standard Class,CUST-266,Home Office,Central,Office Supplies,Paper,$184.37,3,0,$37.58,20.4%
+ORD-2026-0042,2025-01-27,Standard Class,CUST-245,Home Office,West,Office Supplies,Binders,$499.02,2,0,$50.57,10.1%
+ORD-2026-0043,2025-01-27,Standard Class,CUST-286,Corporate,South,Technology,Phones,$206.54,6,0,$0.81,0.4%
+ORD-2026-0044,2025-01-28,First Class,CUST-202,Consumer,East,Technology,Copiers,$110.96,2,0,$34.03,30.7%
+ORD-2026-0045,2025-01-29,Standard Class,CUST-116,Consumer,West,Office Supplies,Paper,$159.43,5,0.1,$38.94,24.4%
+ORD-2026-0046,2025-01-29,Second Class,CUST-113,Consumer,East,Office Supplies,Art,$211.88,2,0,$48.90,23.1%
+ORD-2026-0047,2025-01-30,Standard Class,CUST-258,Consumer,Central,Furniture,Bookcases,$152.12,3,0.1,$2.49,1.6%
+ORD-2026-0048,2025-01-30,Standard Class,CUST-251,Corporate,Central,Furniture,Furnishings,$12.52,3,0.3,-$0.45,-3.6%
+ORD-2026-0049,2025-01-31,Standard Class,CUST-207,Consumer,South,Office Supplies,Art,$42.49,6,0,$7.99,18.8%
+ORD-2026-0050,2025-02-01,Standard Class,CUST-287,Home Office,Central,Office Supplies,Paper,$259.48,6,0.5,$22.94,8.8%
+ORD-2026-0051,2025-02-01,Same Day,CUST-144,Corporate,West,Technology,Machines,$57.75,3,0,-$0.34,-0.6%
+ORD-2026-0052,2025-02-02,Second Class,CUST-197,Home Office,Central,Technology,Phones,$207.27,3,0,-$14.90,-7.2%
+ORD-2026-0053,2025-02-03,First Class,CUST-230,Consumer,South,Office Supplies,Art,$79.81,1,0,-$4.76,-6.0%
+ORD-2026-0054,2025-02-03,First Class,CUST-136,Home Office,East,Technology,Accessories,$120.69,7,0,$47.84,39.6%
+ORD-2026-0055,2025-02-04,Standard Class,CUST-270,Home Office,East,Furniture,Tables,$20.56,8,0,$6.00,29.2%
+ORD-2026-0056,2025-02-05,First Class,CUST-267,Consumer,Central,Technology,Copiers,$39.99,2,0,$14.44,36.1%
+ORD-2026-0057,2025-02-05,Standard Class,CUST-282,Corporate,West,Office Supplies,Paper,$482.67,4,0.2,-$0.95,-0.2%
+ORD-2026-0058,2025-02-06,Standard Class,CUST-207,Corporate,South,Office Supplies,Appliances,$341.28,7,0.3,$90.85,26.6%
+ORD-2026-0059,2025-02-06,Standard Class,CUST-138,Consumer,West,Office Supplies,Appliances,$168.45,8,0.1,-$4.35,-2.6%
+ORD-2026-0060,2025-02-07,Standard Class,CUST-114,Corporate,South,Furniture,Chairs,$102.33,1,0,$15.81,15.5%
+ORD-2026-0061,2025-02-08,Standard Class,CUST-219,Consumer,Central,Technology,Accessories,$178.94,4,0.1,$50.70,28.3%
+ORD-2026-0062,2025-02-08,Standard Class,CUST-103,Consumer,South,Technology,Machines,$154.59,6,0.1,$10.42,6.7%
+ORD-2026-0063,2025-02-09,First Class,CUST-192,Consumer,South,Furniture,Tables,$136.09,3,0.2,$12.24,9.0%
+ORD-2026-0064,2025-02-10,Standard Class,CUST-252,Consumer,Central,Technology,Phones,$19.15,5,0.2,-$0.55,-2.9%
+ORD-2026-0065,2025-02-10,Standard Class,CUST-240,Consumer,West,Furniture,Bookcases,$160.28,9,0.3,-$4.32,-2.7%
+ORD-2026-0066,2025-02-11,Standard Class,CUST-260,Consumer,Central,Technology,Copiers,$229.75,3,0,$48.20,21.0%
+ORD-2026-0067,2025-02-12,Standard Class,CUST-115,Home Office,South,Furniture,Furnishings,$779.45,5,0.1,$166.79,21.4%
+ORD-2026-0068,2025-02-12,First Class,CUST-269,Corporate,Central,Technology,Machines,$11.67,8,0,$3.37,28.9%
+ORD-2026-0069,2025-02-13,Standard Class,CUST-207,Home Office,South,Furniture,Bookcases,$206.50,6,0.5,$18.41,8.9%
+ORD-2026-0070,2025-02-13,Same Day,CUST-225,Consumer,Central,Furniture,Furnishings,$137.22,4,0,$30.58,22.3%
+ORD-2026-0071,2025-02-14,Second Class,CUST-293,Consumer,East,Furniture,Tables,$95.39,8,0,-$8.89,-9.3%
+ORD-2026-0072,2025-02-15,Standard Class,CUST-154,Corporate,East,Technology,Machines,$30.47,3,0,-$0.58,-1.9%
+ORD-2026-0073,2025-02-15,Standard Class,CUST-269,Consumer,Central,Technology,Phones,$88.91,3,0.2,$27.91,31.4%
+ORD-2026-0074,2025-02-16,First Class,CUST-133,Consumer,West,Furniture,Chairs,$75.63,4,0,-$4.69,-6.2%
+ORD-2026-0075,2025-02-17,Second Class,CUST-257,Corporate,South,Office Supplies,Binders,$64.11,9,0,$15.35,23.9%
+ORD-2026-0076,2025-02-17,Second Class,CUST-112,Consumer,East,Furniture,Bookcases,$206.89,5,0.5,-$1.24,-0.6%
+ORD-2026-0077,2025-02-18,Second Class,CUST-240,Corporate,West,Technology,Machines,$190.96,8,0.3,$34.54,18.1%
+ORD-2026-0078,2025-02-19,Standard Class,CUST-117,Corporate,South,Office Supplies,Art,$143.38,6,0,$36.27,25.3%
+ORD-2026-0079,2025-02-19,Standard Class,CUST-259,Consumer,East,Office Supplies,Paper,$428.71,3,0,$7.33,1.7%
+ORD-2026-0080,2025-02-20,Standard Class,CUST-195,Consumer,East,Technology,Phones,$74.58,8,0.2,$2.08,2.8%
+ORD-2026-0081,2025-02-21,First Class,CUST-222,Corporate,Central,Office Supplies,Storage,$51.92,9,0.3,$8.26,15.9%
+ORD-2026-0082,2025-02-21,Second Class,CUST-138,Consumer,South,Technology,Machines,$170.02,8,0.1,$14.54,8.6%
+ORD-2026-0083,2025-02-22,Standard Class,CUST-145,Consumer,West,Office Supplies,Paper,$43.25,4,0.1,-$0.11,-0.3%
+ORD-2026-0084,2025-02-22,Standard Class,CUST-128,Home Office,West,Furniture,Bookcases,$66.75,6,0,$17.74,26.6%
+ORD-2026-0085,2025-02-23,Standard Class,CUST-289,Consumer,West,Office Supplies,Art,$48.16,1,0.2,-$0.88,-1.8%
+ORD-2026-0086,2025-02-24,Standard Class,CUST-161,Corporate,South,Technology,Accessories,$20.75,4,0.1,$6.12,29.5%
+ORD-2026-0087,2025-02-24,Second Class,CUST-284,Home Office,West,Furniture,Tables,$273.60,8,0.1,$38.74,14.2%
+ORD-2026-0088,2025-02-25,Second Class,CUST-115,Consumer,West,Furniture,Tables,$54.06,1,0,-$2.55,-4.7%
+ORD-2026-0089,2025-02-26,First Class,CUST-283,Consumer,West,Technology,Phones,$106.09,3,0.3,$18.35,17.3%
+ORD-2026-0090,2025-02-26,Standard Class,CUST-220,Consumer,Central,Technology,Copiers,$16.64,1,0.1,$2.39,14.4%
+ORD-2026-0091,2025-02-27,Standard Class,CUST-109,Consumer,Central,Furniture,Chairs,$190.27,9,0,$9.33,4.9%
+ORD-2026-0092,2025-02-28,Second Class,CUST-257,Consumer,South,Technology,Copiers,$70.20,2,0.1,$7.03,10.0%
+ORD-2026-0093,2025-02-28,Second Class,CUST-252,Corporate,South,Technology,Copiers,$214.82,9,0.1,$9.51,4.4%
+ORD-2026-0094,2025-03-01,Standard Class,CUST-202,Consumer,West,Furniture,Chairs,$89.76,4,0.1,$2.55,2.8%
+ORD-2026-0095,2025-03-01,Second Class,CUST-183,Corporate,Central,Technology,Machines,$42.68,2,0.2,-$0.62,-1.5%
+ORD-2026-0096,2025-03-02,Standard Class,CUST-232,Home Office,East,Office Supplies,Art,$117.98,4,0.1,$8.64,7.3%
+ORD-2026-0097,2025-03-03,Standard Class,CUST-164,Home Office,East,Furniture,Bookcases,$30.98,6,0.3,$0.55,1.8%
+ORD-2026-0098,2025-03-03,Standard Class,CUST-276,Corporate,West,Technology,Phones,$97.12,7,0,$23.48,24.2%
+ORD-2026-0099,2025-03-04,Standard Class,CUST-102,Consumer,West,Office Supplies,Binders,$67.26,3,0,$16.27,24.2%
+ORD-2026-0100,2025-03-05,Standard Class,CUST-272,Corporate,Central,Office Supplies,Paper,$374.49,3,0,$56.52,15.1%
+ORD-2026-0101,2025-03-05,Standard Class,CUST-241,Corporate,Central,Office Supplies,Appliances,$19.43,8,0.1,$5.05,26.0%
+ORD-2026-0102,2025-03-06,Second Class,CUST-219,Consumer,Central,Furniture,Bookcases,$187.63,5,0.1,$54.15,28.9%
+ORD-2026-0103,2025-03-07,Standard Class,CUST-257,Consumer,South,Office Supplies,Paper,$40.27,4,0.3,$5.35,13.3%
+ORD-2026-0104,2025-03-07,Standard Class,CUST-167,Home Office,South,Office Supplies,Storage,$67.64,7,0.2,$11.33,16.8%
+ORD-2026-0105,2025-03-08,First Class,CUST-245,Consumer,West,Office Supplies,Appliances,$90.55,7,0.1,$3.38,3.7%
+ORD-2026-0106,2025-03-08,Standard Class,CUST-289,Consumer,South,Office Supplies,Appliances,$367.92,9,0.5,$63.91,17.4%
+ORD-2026-0107,2025-03-09,Standard Class,CUST-136,Consumer,Central,Office Supplies,Appliances,$51.68,9,0,-$4.54,-8.8%
+ORD-2026-0108,2025-03-10,Second Class,CUST-252,Consumer,Central,Office Supplies,Binders,$24.36,5,0.2,$1.45,6.0%
+ORD-2026-0109,2025-03-10,Standard Class,CUST-275,Home Office,South,Office Supplies,Binders,$67.56,8,0,$17.63,26.1%
+ORD-2026-0110,2025-03-11,Standard Class,CUST-292,Corporate,East,Office Supplies,Appliances,$26.59,1,0.1,-$1.43,-5.4%
+ORD-2026-0111,2025-03-12,Standard Class,CUST-280,Corporate,West,Technology,Accessories,$30.65,9,0.2,-$0.21,-0.7%
+ORD-2026-0112,2025-03-12,Standard Class,CUST-172,Consumer,East,Technology,Accessories,$137.94,8,0.1,$24.16,17.5%
+ORD-2026-0113,2025-03-13,First Class,CUST-242,Consumer,West,Office Supplies,Appliances,$19.43,6,0,$3.50,18.0%
+ORD-2026-0114,2025-03-14,First Class,CUST-148,Consumer,East,Furniture,Bookcases,$14.71,3,0,$3.96,26.9%
+ORD-2026-0115,2025-03-14,Second Class,CUST-220,Consumer,South,Furniture,Chairs,$197.98,3,0.1,$54.58,27.6%
+ORD-2026-0116,2025-03-15,First Class,CUST-187,Consumer,West,Technology,Phones,$77.33,8,0.2,-$2.21,-2.9%
+ORD-2026-0117,2025-03-15,First Class,CUST-295,Corporate,West,Office Supplies,Storage,$30.09,5,0,-$2.73,-9.1%
+ORD-2026-0118,2025-03-16,Standard Class,CUST-239,Consumer,West,Technology,Machines,$53.88,7,0.3,$9.23,17.1%
+ORD-2026-0119,2025-03-17,First Class,CUST-286,Corporate,Central,Office Supplies,Paper,$164.12,5,0,$8.32,5.1%
+ORD-2026-0120,2025-03-17,Standard Class,CUST-136,Consumer,Central,Technology,Machines,$58.35,8,0.1,$11.19,19.2%
+ORD-2026-0121,2025-03-18,First Class,CUST-160,Consumer,East,Technology,Accessories,$112.34,4,0.2,-$2.22,-2.0%
+ORD-2026-0122,2025-03-19,First Class,CUST-270,Consumer,South,Office Supplies,Paper,$29.46,2,0.1,$3.57,12.1%
+ORD-2026-0123,2025-03-19,Standard Class,CUST-223,Home Office,Central,Technology,Phones,$143.04,3,0.5,$10.89,7.6%
+ORD-2026-0124,2025-03-20,Standard Class,CUST-297,Home Office,West,Furniture,Tables,$66.99,8,0.1,$11.61,17.3%
+ORD-2026-0125,2025-03-21,Standard Class,CUST-138,Home Office,Central,Technology,Copiers,$157.91,7,0.1,$22.25,14.1%
+ORD-2026-0126,2025-03-21,Standard Class,CUST-283,Consumer,South,Technology,Accessories,$257.85,2,0,$38.12,14.8%
+ORD-2026-0127,2025-03-22,First Class,CUST-162,Consumer,Central,Office Supplies,Binders,$151.88,6,0,$10.08,6.6%
+ORD-2026-0128,2025-03-22,First Class,CUST-145,Corporate,West,Office Supplies,Art,$62.59,9,0,-$4.03,-6.4%
+ORD-2026-0129,2025-03-23,Standard Class,CUST-187,Consumer,East,Technology,Phones,$54.31,4,0.2,-$2.40,-4.4%
+ORD-2026-0130,2025-03-24,Standard Class,CUST-110,Home Office,West,Technology,Phones,$69.50,9,0,$8.12,11.7%
+ORD-2026-0131,2025-03-24,Standard Class,CUST-161,Consumer,South,Office Supplies,Paper,$36.98,2,0,$2.88,7.8%
+ORD-2026-0132,2025-03-25,Standard Class,CUST-176,Consumer,East,Technology,Copiers,$39.98,2,0,$6.32,15.8%
+ORD-2026-0133,2025-03-26,Standard Class,CUST-252,Consumer,Central,Furniture,Furnishings,$244.59,9,0,$12.82,5.2%
+ORD-2026-0134,2025-03-26,Standard Class,CUST-298,Consumer,Central,Office Supplies,Binders,$82.85,7,0,$20.21,24.4%
+ORD-2026-0135,2025-03-27,First Class,CUST-151,Corporate,Central,Technology,Machines,$95.90,7,0.3,$22.29,23.2%
+ORD-2026-0136,2025-03-28,Standard Class,CUST-103,Consumer,East,Furniture,Tables,$145.23,1,0.2,$5.74,4.0%
+ORD-2026-0137,2025-03-28,Standard Class,CUST-158,Consumer,West,Office Supplies,Art,$143.61,6,0.2,-$0.40,-0.3%
+ORD-2026-0138,2025-03-29,Second Class,CUST-171,Consumer,East,Technology,Accessories,$20.46,7,0.2,-$0.69,-3.4%
+ORD-2026-0139,2025-03-29,Standard Class,CUST-247,Consumer,East,Furniture,Bookcases,$277.16,6,0,$57.68,20.8%
+ORD-2026-0140,2025-03-30,Same Day,CUST-192,Corporate,South,Technology,Phones,$39.28,6,0.3,$3.35,8.5%
+ORD-2026-0141,2025-03-31,Same Day,CUST-162,Home Office,East,Technology,Machines,$202.60,2,0,-$1.21,-0.6%
+ORD-2026-0142,2025-03-31,Standard Class,CUST-153,Home Office,Central,Office Supplies,Appliances,$232.20,6,0,$52.61,22.7%
+ORD-2026-0143,2025-04-01,Standard Class,CUST-216,Corporate,West,Office Supplies,Art,$198.24,4,0.1,-$4.60,-2.3%
+ORD-2026-0144,2025-04-02,Standard Class,CUST-209,Consumer,West,Furniture,Chairs,$139.76,9,0,$24.76,17.7%
+ORD-2026-0145,2025-04-02,Standard Class,CUST-173,Corporate,West,Office Supplies,Art,$12.21,1,0.2,$1.60,13.1%
+ORD-2026-0146,2025-04-03,Standard Class,CUST-206,Consumer,Central,Furniture,Furnishings,$77.03,8,0,$20.58,26.7%
+ORD-2026-0147,2025-04-04,Second Class,CUST-156,Consumer,Central,Office Supplies,Storage,$149.27,5,0.2,-$8.65,-5.8%
+ORD-2026-0148,2025-04-04,Standard Class,CUST-268,Home Office,Central,Furniture,Furnishings,$83.52,1,0,$28.73,34.4%
+ORD-2026-0149,2025-04-05,Standard Class,CUST-102,Consumer,Central,Office Supplies,Art,$308.69,4,0,$77.63,25.1%
+ORD-2026-0150,2025-04-06,Standard Class,CUST-219,Home Office,Central,Office Supplies,Storage,$65.40,1,0.2,$0.42,0.6%
+ORD-2026-0151,2025-04-06,First Class,CUST-105,Consumer,East,Office Supplies,Appliances,$62.12,6,0,-$0.52,-0.8%
+ORD-2026-0152,2025-04-07,Standard Class,CUST-104,Corporate,Central,Technology,Phones,$56.39,2,0,$6.53,11.6%
+ORD-2026-0153,2025-04-07,Standard Class,CUST-104,Corporate,Central,Furniture,Bookcases,$70.70,5,0,$21.83,30.9%
+ORD-2026-0154,2025-04-08,Standard Class,CUST-153,Home Office,Central,Furniture,Chairs,$132.27,7,0.1,$38.27,28.9%
+ORD-2026-0155,2025-04-09,Same Day,CUST-146,Corporate,Central,Office Supplies,Art,$194.15,2,0.1,$28.00,14.4%
+ORD-2026-0156,2025-04-09,Standard Class,CUST-276,Corporate,West,Furniture,Tables,$172.96,6,0,$57.15,33.0%
+ORD-2026-0157,2025-04-10,Second Class,CUST-108,Consumer,Central,Technology,Copiers,$257.32,6,0.5,-$12.52,-4.9%
+ORD-2026-0158,2025-04-11,Second Class,CUST-198,Corporate,East,Office Supplies,Storage,$335.62,5,0.3,-$19.36,-5.8%
+ORD-2026-0159,2025-04-11,Standard Class,CUST-119,Consumer,East,Furniture,Furnishings,$263.99,5,0.2,$75.17,28.5%
+ORD-2026-0160,2025-04-12,Second Class,CUST-221,Corporate,East,Furniture,Chairs,$12.87,3,0.2,$2.96,23.0%
+ORD-2026-0161,2025-04-13,Standard Class,CUST-160,Corporate,South,Technology,Phones,$209.72,2,0,$26.29,12.5%
+ORD-2026-0162,2025-04-13,Second Class,CUST-222,Corporate,West,Technology,Machines,$45.05,7,0.1,$11.22,24.9%
+ORD-2026-0163,2025-04-14,Second Class,CUST-262,Consumer,Central,Furniture,Tables,$31.39,1,0,$11.86,37.8%
+ORD-2026-0164,2025-04-14,Standard Class,CUST-277,Consumer,South,Technology,Copiers,$162.62,6,0,$46.52,28.6%
+ORD-2026-0165,2025-04-15,Standard Class,CUST-181,Corporate,Central,Furniture,Bookcases,$67.79,6,0.5,$10.89,16.1%
+ORD-2026-0166,2025-04-16,First Class,CUST-161,Consumer,South,Technology,Accessories,$18.82,3,0.1,$4.75,25.2%
+ORD-2026-0167,2025-04-16,Standard Class,CUST-244,Consumer,South,Office Supplies,Paper,$32.21,2,0,-$0.51,-1.6%
+ORD-2026-0168,2025-04-17,Standard Class,CUST-102,Consumer,East,Office Supplies,Appliances,$10.14,2,0,$3.21,31.7%
+ORD-2026-0169,2025-04-18,Standard Class,CUST-259,Home Office,East,Furniture,Furnishings,$360.30,9,0.1,-$0.79,-0.2%
+ORD-2026-0170,2025-04-18,Standard Class,CUST-112,Corporate,South,Furniture,Bookcases,$13.74,5,0,$4.76,34.6%
+ORD-2026-0171,2025-04-19,Second Class,CUST-219,Consumer,East,Office Supplies,Art,$45.26,7,0,$5.85,12.9%
+ORD-2026-0172,2025-04-20,Standard Class,CUST-224,Consumer,South,Furniture,Tables,$90.75,5,0,$21.64,23.8%
+ORD-2026-0173,2025-04-20,Standard Class,CUST-188,Consumer,West,Furniture,Tables,$76.14,7,0,$11.32,14.9%
+ORD-2026-0174,2025-04-21,Standard Class,CUST-172,Corporate,East,Office Supplies,Appliances,$374.10,4,0.1,-$17.85,-4.8%
+ORD-2026-0175,2025-04-21,Second Class,CUST-167,Corporate,East,Technology,Accessories,$16.17,8,0,$0.73,4.5%
+ORD-2026-0176,2025-04-22,Standard Class,CUST-241,Consumer,East,Technology,Copiers,$117.68,7,0.2,$36.89,31.3%
+ORD-2026-0177,2025-04-23,Second Class,CUST-200,Consumer,West,Furniture,Chairs,$181.14,5,0,$68.90,38.0%
+ORD-2026-0178,2025-04-23,Standard Class,CUST-197,Consumer,South,Furniture,Tables,$412.57,6,0.1,$22.37,5.4%
+ORD-2026-0179,2025-04-24,First Class,CUST-110,Corporate,Central,Furniture,Chairs,$155.28,5,0.5,$30.91,19.9%
+ORD-2026-0180,2025-04-25,Standard Class,CUST-204,Corporate,East,Office Supplies,Binders,$254.26,7,0.1,$73.86,29.0%
+ORD-2026-0181,2025-04-25,Standard Class,CUST-283,Consumer,South,Furniture,Chairs,$23.12,2,0.3,$3.33,14.4%
+ORD-2026-0182,2025-04-26,Standard Class,CUST-166,Consumer,West,Furniture,Furnishings,$83.15,5,0.3,-$4.65,-5.6%
+ORD-2026-0183,2025-04-27,First Class,CUST-222,Consumer,Central,Furniture,Furnishings,$80.25,3,0,$28.15,35.1%
+ORD-2026-0184,2025-04-27,First Class,CUST-128,Home Office,East,Technology,Machines,$336.11,9,0.2,$48.05,14.3%
+ORD-2026-0185,2025-04-28,Standard Class,CUST-236,Consumer,West,Technology,Phones,$34.62,6,0.3,$8.10,23.4%
+ORD-2026-0186,2025-04-28,Second Class,CUST-294,Corporate,West,Technology,Machines,$34.71,3,0,$11.01,31.7%
+ORD-2026-0187,2025-04-29,First Class,CUST-252,Corporate,Central,Office Supplies,Storage,$69.75,7,0,$22.08,31.7%
+ORD-2026-0188,2025-04-30,Standard Class,CUST-175,Consumer,South,Technology,Phones,$18.40,4,0.3,$3.21,17.4%
+ORD-2026-0189,2025-04-30,Standard Class,CUST-269,Consumer,East,Technology,Copiers,$40.22,3,0.2,$1.47,3.7%
+ORD-2026-0190,2025-05-01,Standard Class,CUST-108,Consumer,East,Technology,Copiers,$513.76,8,0,$34.98,6.8%
+ORD-2026-0191,2025-05-02,Standard Class,CUST-139,Corporate,South,Office Supplies,Appliances,$93.84,4,0,$5.09,5.4%
+ORD-2026-0192,2025-05-02,First Class,CUST-124,Corporate,South,Furniture,Tables,$159.96,1,0.2,-$11.51,-7.2%
+ORD-2026-0193,2025-05-03,First Class,CUST-104,Corporate,South,Technology,Accessories,$204.25,6,0.1,$35.16,17.2%
+ORD-2026-0194,2025-05-04,Second Class,CUST-238,Corporate,Central,Technology,Accessories,$78.58,1,0.1,$17.64,22.4%
+ORD-2026-0195,2025-05-04,Standard Class,CUST-286,Consumer,Central,Furniture,Chairs,$33.89,5,0.2,$8.86,26.1%
+ORD-2026-0196,2025-05-05,Standard Class,CUST-223,Home Office,East,Furniture,Furnishings,$44.71,7,0.1,-$1.20,-2.7%
+ORD-2026-0197,2025-05-05,Second Class,CUST-137,Corporate,Central,Technology,Machines,$66.37,6,0.1,$10.28,15.5%
+ORD-2026-0198,2025-05-06,First Class,CUST-171,Consumer,West,Technology,Accessories,$161.62,2,0.2,-$12.41,-7.7%
+ORD-2026-0199,2025-05-07,First Class,CUST-232,Home Office,East,Office Supplies,Paper,$86.19,4,0.2,-$3.62,-4.2%
+ORD-2026-0200,2025-05-07,Second Class,CUST-275,Corporate,Central,Technology,Machines,$11.03,2,0.1,-$0.72,-6.5%
+ORD-2026-0201,2025-05-08,Second Class,CUST-189,Corporate,South,Office Supplies,Storage,$121.16,1,0,$31.83,26.3%
+ORD-2026-0202,2025-05-09,Standard Class,CUST-245,Corporate,West,Furniture,Chairs,$391.72,3,0,-$23.30,-5.9%
+ORD-2026-0203,2025-05-09,Standard Class,CUST-297,Home Office,South,Technology,Copiers,$260.76,3,0.5,$33.67,12.9%
+ORD-2026-0204,2025-05-10,First Class,CUST-136,Corporate,East,Technology,Machines,$271.63,7,0,$6.74,2.5%
+ORD-2026-0205,2025-05-11,Second Class,CUST-159,Consumer,South,Technology,Phones,$247.75,1,0,$83.95,33.9%
+ORD-2026-0206,2025-05-11,Standard Class,CUST-275,Consumer,Central,Office Supplies,Appliances,$68.67,9,0,$21.05,30.7%
+ORD-2026-0207,2025-05-12,Standard Class,CUST-127,Home Office,Central,Office Supplies,Art,$227.35,6,0.2,$68.92,30.3%
+ORD-2026-0208,2025-05-12,Second Class,CUST-296,Consumer,East,Technology,Accessories,$33.18,4,0,$11.34,34.2%
+ORD-2026-0209,2025-05-13,Standard Class,CUST-180,Consumer,South,Furniture,Chairs,$170.82,3,0,$62.63,36.7%
+ORD-2026-0210,2025-05-14,Standard Class,CUST-213,Consumer,East,Technology,Phones,$163.90,3,0,$53.98,32.9%
+ORD-2026-0211,2025-05-14,Standard Class,CUST-139,Consumer,South,Technology,Phones,$13.89,2,0.2,$2.74,19.7%
+ORD-2026-0212,2025-05-15,Second Class,CUST-144,Corporate,West,Furniture,Bookcases,$242.65,2,0,-$3.61,-1.5%
+ORD-2026-0213,2025-05-16,Second Class,CUST-161,Home Office,Central,Office Supplies,Appliances,$360.34,5,0,$12.92,3.6%
+ORD-2026-0214,2025-05-16,Standard Class,CUST-192,Consumer,East,Office Supplies,Paper,$56.68,9,0,$0.36,0.6%
+ORD-2026-0215,2025-05-17,Second Class,CUST-214,Consumer,West,Furniture,Chairs,$261.01,2,0.3,$36.87,14.1%
+ORD-2026-0216,2025-05-18,Standard Class,CUST-285,Consumer,West,Furniture,Furnishings,$22.90,2,0,$3.48,15.2%
+ORD-2026-0217,2025-05-18,Standard Class,CUST-166,Home Office,East,Office Supplies,Appliances,$147.43,6,0,$49.17,33.4%
+ORD-2026-0218,2025-05-19,Second Class,CUST-155,Corporate,East,Furniture,Tables,$109.73,2,0.1,$37.17,33.9%
+ORD-2026-0219,2025-05-20,Second Class,CUST-139,Consumer,West,Technology,Copiers,$128.42,4,0.5,$6.58,5.1%
+ORD-2026-0220,2025-05-20,First Class,CUST-197,Home Office,South,Office Supplies,Appliances,$400.97,6,0.1,$55.28,13.8%
+ORD-2026-0221,2025-05-21,Second Class,CUST-139,Home Office,West,Furniture,Furnishings,$317.56,5,0.5,$61.25,19.3%
+ORD-2026-0222,2025-05-21,Standard Class,CUST-190,Home Office,East,Technology,Machines,$240.63,1,0.2,$7.34,3.1%
+ORD-2026-0223,2025-05-22,Standard Class,CUST-132,Home Office,West,Technology,Accessories,$57.97,6,0,$17.17,29.6%
+ORD-2026-0224,2025-05-23,Standard Class,CUST-105,Consumer,South,Technology,Machines,$374.25,1,0.1,$4.25,1.1%
+ORD-2026-0225,2025-05-23,Standard Class,CUST-246,Corporate,Central,Office Supplies,Storage,$25.39,3,0,$6.11,24.1%
+ORD-2026-0226,2025-05-24,Standard Class,CUST-179,Consumer,Central,Technology,Machines,$297.93,5,0.1,$7.19,2.4%
+ORD-2026-0227,2025-05-25,Same Day,CUST-267,Home Office,West,Technology,Phones,$69.66,5,0,$23.81,34.2%
+ORD-2026-0228,2025-05-25,Standard Class,CUST-191,Corporate,South,Furniture,Chairs,$18.29,6,0,$3.31,18.1%
+ORD-2026-0229,2025-05-26,First Class,CUST-196,Corporate,Central,Technology,Accessories,$176.01,8,0.3,-$0.87,-0.5%
+ORD-2026-0230,2025-05-27,Second Class,CUST-158,Corporate,West,Office Supplies,Appliances,$49.45,5,0,$0.60,1.2%
+ORD-2026-0231,2025-05-27,Second Class,CUST-158,Consumer,West,Furniture,Furnishings,$51.87,1,0.3,$5.33,10.3%
+ORD-2026-0232,2025-05-28,Standard Class,CUST-147,Corporate,South,Technology,Copiers,$64.80,5,0,$24.68,38.1%
+ORD-2026-0233,2025-05-28,Standard Class,CUST-268,Home Office,East,Office Supplies,Paper,$19.87,3,0,$5.66,28.5%
+ORD-2026-0234,2025-05-29,Standard Class,CUST-112,Home Office,West,Office Supplies,Storage,$39.24,4,0.3,$3.96,10.1%
+ORD-2026-0235,2025-05-30,Standard Class,CUST-206,Consumer,East,Technology,Accessories,$10.77,8,0.1,$0.67,6.2%
+ORD-2026-0236,2025-05-30,Second Class,CUST-144,Consumer,East,Technology,Machines,$98.43,7,0.2,$13.75,14.0%
+ORD-2026-0237,2025-05-31,Standard Class,CUST-188,Consumer,Central,Office Supplies,Appliances,$23.20,5,0,$6.36,27.4%
+ORD-2026-0238,2025-06-01,Standard Class,CUST-280,Corporate,East,Office Supplies,Appliances,$182.16,2,0.1,$47.87,26.3%
+ORD-2026-0239,2025-06-01,Second Class,CUST-269,Home Office,South,Furniture,Furnishings,$50.30,6,0.2,$2.51,5.0%
+ORD-2026-0240,2025-06-02,Standard Class,CUST-199,Consumer,Central,Technology,Copiers,$441.22,6,0.1,$103.48,23.5%
+ORD-2026-0241,2025-06-03,First Class,CUST-290,Corporate,Central,Technology,Accessories,$317.48,6,0,$72.67,22.9%
+ORD-2026-0242,2025-06-03,Same Day,CUST-254,Home Office,Central,Office Supplies,Storage,$61.26,9,0.5,$11.63,19.0%
+ORD-2026-0243,2025-06-04,First Class,CUST-265,Corporate,West,Office Supplies,Paper,$239.33,8,0.1,$78.74,32.9%
+ORD-2026-0244,2025-06-04,Standard Class,CUST-287,Corporate,West,Furniture,Bookcases,$253.87,8,0.3,$52.37,20.6%
+ORD-2026-0245,2025-06-05,Standard Class,CUST-106,Corporate,East,Office Supplies,Paper,$656.46,1,0.2,$137.44,20.9%
+ORD-2026-0246,2025-06-06,First Class,CUST-232,Corporate,Central,Furniture,Furnishings,$146.64,5,0.2,$4.34,3.0%
+ORD-2026-0247,2025-06-06,Standard Class,CUST-144,Consumer,Central,Technology,Phones,$22.83,7,0,$7.37,32.3%
+ORD-2026-0248,2025-06-07,Same Day,CUST-157,Corporate,South,Technology,Phones,$166.12,6,0,$18.90,11.4%
+ORD-2026-0249,2025-06-08,Same Day,CUST-130,Corporate,East,Furniture,Tables,$157.12,5,0.3,$3.97,2.5%
+ORD-2026-0250,2025-06-08,First Class,CUST-122,Home Office,South,Furniture,Chairs,$162.56,8,0,$14.97,9.2%
+ORD-2026-0251,2025-06-09,Standard Class,CUST-269,Corporate,East,Technology,Phones,$65.04,3,0,$20.68,31.8%
+ORD-2026-0252,2025-06-10,Standard Class,CUST-237,Corporate,East,Technology,Machines,$304.57,6,0,-$7.82,-2.6%
+ORD-2026-0253,2025-06-10,First Class,CUST-259,Consumer,West,Furniture,Chairs,$490.87,5,0,$62.87,12.8%
+ORD-2026-0254,2025-06-11,Standard Class,CUST-206,Consumer,West,Technology,Machines,$46.83,8,0.3,$4.79,10.2%
+ORD-2026-0255,2025-06-11,Standard Class,CUST-280,Consumer,South,Office Supplies,Storage,$23.84,4,0.3,-$1.36,-5.7%
+ORD-2026-0256,2025-06-12,Standard Class,CUST-257,Consumer,East,Office Supplies,Paper,$42.45,8,0,-$0.09,-0.2%
+ORD-2026-0257,2025-06-13,First Class,CUST-138,Corporate,Central,Technology,Copiers,$267.68,2,0,$83.88,31.3%
+ORD-2026-0258,2025-06-13,Second Class,CUST-258,Home Office,West,Office Supplies,Appliances,$179.35,9,0.2,$45.25,25.2%
+ORD-2026-0259,2025-06-14,Standard Class,CUST-181,Consumer,Central,Office Supplies,Paper,$161.61,9,0.1,$6.72,4.2%
+ORD-2026-0260,2025-06-15,Standard Class,CUST-199,Consumer,South,Furniture,Tables,$87.07,6,0.5,$14.69,16.9%
+ORD-2026-0261,2025-06-15,Second Class,CUST-101,Home Office,West,Technology,Phones,$139.35,4,0.1,$35.86,25.7%
+ORD-2026-0262,2025-06-16,Same Day,CUST-176,Consumer,West,Furniture,Chairs,$65.20,4,0,$7.10,10.9%
+ORD-2026-0263,2025-06-17,Standard Class,CUST-111,Corporate,East,Furniture,Tables,$107.28,6,0.1,$26.47,24.7%
+ORD-2026-0264,2025-06-17,Standard Class,CUST-138,Corporate,South,Office Supplies,Art,$246.30,5,0.5,$46.88,19.0%
+ORD-2026-0265,2025-06-18,First Class,CUST-293,Corporate,East,Furniture,Bookcases,$606.42,6,0.1,$70.67,11.7%
+ORD-2026-0266,2025-06-18,Second Class,CUST-112,Consumer,West,Furniture,Bookcases,$414.32,7,0.1,$7.16,1.7%
+ORD-2026-0267,2025-06-19,Second Class,CUST-145,Consumer,South,Furniture,Furnishings,$417.41,7,0,$154.82,37.1%
+ORD-2026-0268,2025-06-20,Second Class,CUST-254,Corporate,West,Technology,Phones,$87.18,9,0.2,$14.08,16.2%
+ORD-2026-0269,2025-06-20,Standard Class,CUST-212,Corporate,South,Technology,Machines,$104.89,8,0.2,-$3.97,-3.8%
+ORD-2026-0270,2025-06-21,Standard Class,CUST-116,Consumer,West,Furniture,Chairs,$193.44,6,0,$36.05,18.6%
+ORD-2026-0271,2025-06-22,First Class,CUST-203,Corporate,Central,Technology,Accessories,$393.03,6,0,$59.07,15.0%
+ORD-2026-0272,2025-06-22,First Class,CUST-197,Consumer,Central,Technology,Machines,$32.97,5,0,$10.81,32.8%
+ORD-2026-0273,2025-06-23,First Class,CUST-287,Corporate,East,Office Supplies,Paper,$64.41,1,0,$10.65,16.5%
+ORD-2026-0274,2025-06-24,First Class,CUST-291,Consumer,Central,Technology,Copiers,$32.49,9,0,$0.90,2.8%
+ORD-2026-0275,2025-06-24,Standard Class,CUST-187,Home Office,West,Technology,Machines,$152.02,9,0,$36.15,23.8%
+ORD-2026-0276,2025-06-25,Standard Class,CUST-208,Consumer,West,Office Supplies,Binders,$64.86,9,0.1,$10.00,15.4%
+ORD-2026-0277,2025-06-25,Second Class,CUST-262,Consumer,Central,Furniture,Tables,$69.20,8,0,$1.14,1.6%
+ORD-2026-0278,2025-06-26,Second Class,CUST-169,Consumer,East,Office Supplies,Appliances,$21.03,3,0,$3.93,18.7%
+ORD-2026-0279,2025-06-27,Second Class,CUST-257,Consumer,Central,Technology,Machines,$74.57,1,0.3,$16.22,21.8%
+ORD-2026-0280,2025-06-27,Second Class,CUST-298,Home Office,South,Technology,Phones,$307.62,8,0.1,-$23.73,-7.7%
+ORD-2026-0281,2025-06-28,First Class,CUST-173,Home Office,South,Technology,Accessories,$49.80,7,0.1,$9.66,19.4%
+ORD-2026-0282,2025-06-29,Standard Class,CUST-162,Consumer,South,Furniture,Chairs,$188.21,5,0,$14.08,7.5%
+ORD-2026-0283,2025-06-29,Standard Class,CUST-255,Consumer,Central,Furniture,Furnishings,$158.99,7,0.1,$6.63,4.2%
+ORD-2026-0284,2025-06-30,Standard Class,CUST-159,Corporate,Central,Technology,Phones,$308.70,4,0,$29.73,9.6%
+ORD-2026-0285,2025-07-01,Standard Class,CUST-178,Home Office,Central,Furniture,Chairs,$31.28,9,0.2,$1.78,5.7%
+ORD-2026-0286,2025-07-01,Standard Class,CUST-136,Corporate,South,Technology,Machines,$579.74,2,0,$183.27,31.6%
+ORD-2026-0287,2025-07-02,Standard Class,CUST-121,Consumer,East,Office Supplies,Appliances,$141.07,9,0.1,$4.75,3.4%
+ORD-2026-0288,2025-07-03,Standard Class,CUST-295,Consumer,West,Office Supplies,Storage,$819.69,9,0,$218.51,26.7%
+ORD-2026-0289,2025-07-03,Standard Class,CUST-247,Corporate,Central,Technology,Machines,$373.74,5,0.2,-$15.84,-4.2%
+ORD-2026-0290,2025-07-04,Standard Class,CUST-195,Consumer,East,Technology,Copiers,$47.56,1,0.1,$16.08,33.8%
+ORD-2026-0291,2025-07-04,Standard Class,CUST-167,Corporate,West,Office Supplies,Paper,$18.67,7,0,$3.94,21.1%
+ORD-2026-0292,2025-07-05,Standard Class,CUST-291,Consumer,West,Technology,Machines,$54.28,4,0,$13.75,25.3%
+ORD-2026-0293,2025-07-06,First Class,CUST-116,Corporate,West,Technology,Accessories,$122.48,9,0.1,$5.40,4.4%
+ORD-2026-0294,2025-07-06,Standard Class,CUST-111,Consumer,East,Office Supplies,Storage,$38.24,6,0.5,$2.03,5.3%
+ORD-2026-0295,2025-07-07,Standard Class,CUST-249,Corporate,East,Furniture,Chairs,$37.49,3,0.2,$0.36,1.0%
+ORD-2026-0296,2025-07-08,Standard Class,CUST-244,Consumer,South,Technology,Accessories,$103.15,6,0,$37.78,36.6%
+ORD-2026-0297,2025-07-08,Second Class,CUST-237,Corporate,East,Technology,Copiers,$15.08,6,0,$2.17,14.4%
+ORD-2026-0298,2025-07-09,Standard Class,CUST-217,Consumer,East,Office Supplies,Storage,$29.50,5,0.3,$4.44,15.1%
+ORD-2026-0299,2025-07-10,Second Class,CUST-292,Corporate,East,Technology,Accessories,$90.64,2,0.1,$21.79,24.0%
+ORD-2026-0300,2025-07-10,Standard Class,CUST-121,Corporate,West,Furniture,Chairs,$19.78,2,0.1,$1.52,7.7%
+ORD-2026-0301,2025-07-11,Standard Class,CUST-219,Corporate,Central,Office Supplies,Appliances,$85.81,7,0.3,$15.62,18.2%
+ORD-2026-0302,2025-07-11,Standard Class,CUST-149,Corporate,South,Technology,Phones,$106.37,2,0.3,$17.72,16.7%
+ORD-2026-0303,2025-07-12,Standard Class,CUST-113,Corporate,Central,Technology,Machines,$100.02,6,0.1,$22.76,22.8%
+ORD-2026-0304,2025-07-13,Second Class,CUST-291,Home Office,Central,Furniture,Tables,$315.08,5,0,$45.57,14.5%
+ORD-2026-0305,2025-07-13,Second Class,CUST-274,Consumer,East,Furniture,Chairs,$123.27,4,0,$11.28,9.2%
+ORD-2026-0306,2025-07-14,Same Day,CUST-128,Home Office,South,Furniture,Furnishings,$104.66,7,0.2,$0.92,0.9%
+ORD-2026-0307,2025-07-15,Standard Class,CUST-263,Consumer,Central,Office Supplies,Appliances,$89.33,8,0,$27.90,31.2%
+ORD-2026-0308,2025-07-15,Standard Class,CUST-279,Consumer,Central,Office Supplies,Storage,$265.25,4,0,$54.16,20.4%
+ORD-2026-0309,2025-07-16,Second Class,CUST-224,Consumer,South,Furniture,Tables,$348.15,1,0,$42.54,12.2%
+ORD-2026-0310,2025-07-17,Standard Class,CUST-106,Consumer,East,Office Supplies,Paper,$297.85,1,0,$110.80,37.2%
+ORD-2026-0311,2025-07-17,Standard Class,CUST-128,Corporate,Central,Technology,Accessories,$177.92,1,0.1,-$12.18,-6.8%
+ORD-2026-0312,2025-07-18,Standard Class,CUST-238,Corporate,West,Furniture,Bookcases,$32.16,1,0.1,$9.41,29.3%
+ORD-2026-0313,2025-07-18,Standard Class,CUST-132,Corporate,Central,Office Supplies,Art,$58.62,5,0,$23.38,39.9%
+ORD-2026-0314,2025-07-19,Same Day,CUST-233,Corporate,West,Furniture,Chairs,$17.07,4,0,$5.86,34.3%
+ORD-2026-0315,2025-07-20,First Class,CUST-210,Consumer,East,Office Supplies,Storage,$410.67,9,0.3,$87.74,21.4%
+ORD-2026-0316,2025-07-20,Second Class,CUST-178,Consumer,Central,Office Supplies,Appliances,$172.17,3,0,$15.01,8.7%
+ORD-2026-0317,2025-07-21,Standard Class,CUST-259,Consumer,South,Furniture,Furnishings,$215.78,7,0.2,$2.70,1.3%
+ORD-2026-0318,2025-07-22,Standard Class,CUST-278,Consumer,South,Office Supplies,Binders,$66.00,8,0.3,$12.36,18.7%
+ORD-2026-0319,2025-07-22,Standard Class,CUST-157,Consumer,Central,Furniture,Chairs,$290.28,6,0,$15.18,5.2%
+ORD-2026-0320,2025-07-23,Standard Class,CUST-125,Consumer,East,Office Supplies,Appliances,$55.09,1,0.1,-$0.59,-1.1%
+ORD-2026-0321,2025-07-24,Standard Class,CUST-273,Corporate,East,Office Supplies,Paper,$10.25,8,0.3,$2.10,20.5%
+ORD-2026-0322,2025-07-24,Second Class,CUST-128,Corporate,South,Office Supplies,Binders,$80.84,3,0,$4.55,5.6%
+ORD-2026-0323,2025-07-25,Second Class,CUST-103,Home Office,Central,Furniture,Furnishings,$136.86,8,0.1,$44.00,32.1%
+ORD-2026-0324,2025-07-25,Standard Class,CUST-198,Home Office,East,Office Supplies,Paper,$107.72,4,0,$34.50,32.0%
+ORD-2026-0325,2025-07-26,Same Day,CUST-240,Corporate,South,Furniture,Tables,$307.16,8,0,$99.46,32.4%
+ORD-2026-0326,2025-07-27,Second Class,CUST-138,Consumer,West,Office Supplies,Art,$26.71,1,0.2,$6.11,22.9%
+ORD-2026-0327,2025-07-27,Standard Class,CUST-114,Corporate,Central,Furniture,Chairs,$131.06,3,0.3,$31.23,23.8%
+ORD-2026-0328,2025-07-28,Second Class,CUST-218,Corporate,West,Technology,Phones,$117.92,6,0.2,$28.57,24.2%
+ORD-2026-0329,2025-07-29,Standard Class,CUST-128,Consumer,West,Technology,Copiers,$59.57,9,0,$11.99,20.1%
+ORD-2026-0330,2025-07-29,Standard Class,CUST-256,Consumer,East,Technology,Accessories,$269.09,2,0,$12.89,4.8%
+ORD-2026-0331,2025-07-30,Standard Class,CUST-174,Home Office,East,Office Supplies,Paper,$219.66,1,0.1,$68.03,31.0%
+ORD-2026-0332,2025-07-31,Second Class,CUST-215,Consumer,East,Technology,Machines,$208.00,3,0,$66.62,32.0%
+ORD-2026-0333,2025-07-31,Standard Class,CUST-131,Corporate,Central,Office Supplies,Art,$323.35,4,0.1,$39.71,12.3%
+ORD-2026-0334,2025-08-01,Standard Class,CUST-229,Corporate,West,Office Supplies,Binders,$202.44,5,0.1,-$14.66,-7.2%
+ORD-2026-0335,2025-08-01,Standard Class,CUST-274,Consumer,Central,Technology,Copiers,$49.56,3,0.1,$9.78,19.7%
+ORD-2026-0336,2025-08-02,Standard Class,CUST-183,Consumer,East,Technology,Copiers,$193.40,2,0.1,-$13.00,-6.7%
+ORD-2026-0337,2025-08-03,First Class,CUST-121,Consumer,West,Furniture,Bookcases,$65.16,2,0,$23.66,36.3%
+ORD-2026-0338,2025-08-03,Second Class,CUST-126,Consumer,Central,Office Supplies,Art,$51.60,7,0,$19.65,38.1%
+ORD-2026-0339,2025-08-04,Standard Class,CUST-294,Consumer,Central,Technology,Phones,$21.37,9,0,-$0.11,-0.5%
+ORD-2026-0340,2025-08-05,Standard Class,CUST-180,Home Office,South,Office Supplies,Art,$214.40,2,0.1,$45.96,21.4%
+ORD-2026-0341,2025-08-05,Standard Class,CUST-225,Consumer,Central,Technology,Machines,$196.20,7,0.1,-$9.51,-4.8%
+ORD-2026-0342,2025-08-06,Standard Class,CUST-283,Corporate,East,Technology,Copiers,$50.08,7,0.2,$10.61,21.2%
+ORD-2026-0343,2025-08-07,Standard Class,CUST-191,Consumer,Central,Office Supplies,Appliances,$217.57,7,0.2,$12.82,5.9%
+ORD-2026-0344,2025-08-07,Standard Class,CUST-120,Home Office,West,Office Supplies,Storage,$384.86,3,0.5,$46.28,12.0%
+ORD-2026-0345,2025-08-08,Standard Class,CUST-146,Consumer,Central,Office Supplies,Storage,$27.15,7,0,$2.35,8.7%
+ORD-2026-0346,2025-08-08,Second Class,CUST-200,Consumer,South,Office Supplies,Paper,$49.72,1,0,-$1.35,-2.7%
+ORD-2026-0347,2025-08-09,Second Class,CUST-286,Home Office,West,Furniture,Furnishings,$218.10,1,0,$22.48,10.3%
+ORD-2026-0348,2025-08-10,Standard Class,CUST-183,Home Office,West,Office Supplies,Paper,$58.14,5,0.2,-$2.03,-3.5%
+ORD-2026-0349,2025-08-10,Standard Class,CUST-105,Consumer,South,Technology,Machines,$156.99,2,0,$29.58,18.8%
+ORD-2026-0350,2025-08-11,Second Class,CUST-246,Home Office,East,Technology,Machines,$22.70,9,0.2,-$1.44,-6.3%
+ORD-2026-0351,2025-08-12,Standard Class,CUST-284,Consumer,West,Office Supplies,Appliances,$100.28,7,0.1,$14.77,14.7%
+ORD-2026-0352,2025-08-12,First Class,CUST-296,Consumer,East,Furniture,Bookcases,$211.54,4,0.3,$50.82,24.0%
+ORD-2026-0353,2025-08-13,Second Class,CUST-230,Consumer,West,Office Supplies,Paper,$184.00,4,0.3,$41.08,22.3%
+ORD-2026-0354,2025-08-14,Standard Class,CUST-100,Consumer,West,Office Supplies,Appliances,$263.17,2,0,$89.84,34.1%
+ORD-2026-0355,2025-08-14,Standard Class,CUST-157,Corporate,East,Technology,Copiers,$324.89,5,0,$117.29,36.1%
+ORD-2026-0356,2025-08-15,Second Class,CUST-223,Consumer,West,Office Supplies,Storage,$232.54,4,0.1,-$9.99,-4.3%
+ORD-2026-0357,2025-08-15,Standard Class,CUST-265,Consumer,East,Furniture,Bookcases,$177.02,1,0,-$6.31,-3.6%
+ORD-2026-0358,2025-08-16,Standard Class,CUST-114,Corporate,South,Office Supplies,Art,$14.84,8,0,$2.65,17.9%
+ORD-2026-0359,2025-08-17,First Class,CUST-261,Corporate,East,Office Supplies,Paper,$124.85,3,0.1,$38.99,31.2%
+ORD-2026-0360,2025-08-17,Standard Class,CUST-288,Consumer,South,Furniture,Furnishings,$15.76,6,0,$6.10,38.7%
+ORD-2026-0361,2025-08-18,Standard Class,CUST-262,Corporate,West,Furniture,Chairs,$257.59,4,0.1,-$17.82,-6.9%
+ORD-2026-0362,2025-08-19,Second Class,CUST-163,Consumer,East,Furniture,Furnishings,$68.01,9,0.1,$4.77,7.0%
+ORD-2026-0363,2025-08-19,Standard Class,CUST-124,Corporate,West,Technology,Phones,$133.98,7,0,$0.86,0.6%
+ORD-2026-0364,2025-08-20,Standard Class,CUST-123,Corporate,East,Furniture,Furnishings,$59.16,9,0,$16.45,27.8%
+ORD-2026-0365,2025-08-21,First Class,CUST-111,Home Office,South,Technology,Phones,$238.83,3,0,$52.57,22.0%
+ORD-2026-0366,2025-08-21,Standard Class,CUST-117,Consumer,South,Office Supplies,Art,$336.40,1,0.2,-$10.78,-3.2%
+ORD-2026-0367,2025-08-22,Same Day,CUST-114,Consumer,East,Furniture,Chairs,$86.28,5,0,$12.23,14.2%
+ORD-2026-0368,2025-08-23,First Class,CUST-126,Consumer,South,Office Supplies,Binders,$308.08,3,0.3,$52.34,17.0%
+ORD-2026-0369,2025-08-23,Standard Class,CUST-171,Consumer,West,Office Supplies,Paper,$56.61,6,0,$16.39,29.0%
+ORD-2026-0370,2025-08-24,Standard Class,CUST-159,Consumer,West,Office Supplies,Binders,$124.75,8,0,-$11.22,-9.0%
+ORD-2026-0371,2025-08-24,Standard Class,CUST-273,Home Office,Central,Technology,Accessories,$303.60,4,0,$104.81,34.5%
+ORD-2026-0372,2025-08-25,Standard Class,CUST-244,Consumer,South,Office Supplies,Storage,$69.15,5,0,$12.77,18.5%
+ORD-2026-0373,2025-08-26,Standard Class,CUST-192,Consumer,West,Technology,Phones,$472.00,5,0,$144.41,30.6%
+ORD-2026-0374,2025-08-26,Second Class,CUST-152,Corporate,East,Technology,Phones,$29.50,4,0.1,$8.07,27.4%
+ORD-2026-0375,2025-08-27,Standard Class,CUST-107,Consumer,South,Technology,Copiers,$12.77,4,0.1,-$0.06,-0.5%
+ORD-2026-0376,2025-08-28,Standard Class,CUST-178,Corporate,West,Furniture,Bookcases,$361.72,4,0,-$16.25,-4.5%
+ORD-2026-0377,2025-08-28,First Class,CUST-126,Consumer,South,Furniture,Bookcases,$20.67,4,0,$5.39,26.1%
+ORD-2026-0378,2025-08-29,Standard Class,CUST-273,Consumer,East,Office Supplies,Storage,$732.18,4,0.2,-$12.76,-1.7%
+ORD-2026-0379,2025-08-30,First Class,CUST-149,Consumer,West,Furniture,Bookcases,$463.61,5,0.1,$135.59,29.2%
+ORD-2026-0380,2025-08-30,Standard Class,CUST-298,Consumer,Central,Furniture,Chairs,$32.10,2,0,$8.45,26.3%
+ORD-2026-0381,2025-08-31,Standard Class,CUST-230,Home Office,Central,Office Supplies,Binders,$125.69,2,0.2,$32.27,25.7%
+ORD-2026-0382,2025-08-31,Second Class,CUST-192,Consumer,South,Furniture,Furnishings,$40.67,9,0,$2.01,4.9%
+ORD-2026-0383,2025-09-01,Second Class,CUST-291,Corporate,East,Technology,Phones,$93.83,2,0.2,$4.38,4.7%
+ORD-2026-0384,2025-09-02,First Class,CUST-271,Consumer,West,Furniture,Bookcases,$19.51,6,0,$4.60,23.6%
+ORD-2026-0385,2025-09-02,Second Class,CUST-280,Consumer,East,Technology,Machines,$48.03,2,0,-$4.05,-8.4%
+ORD-2026-0386,2025-09-03,First Class,CUST-123,Home Office,West,Technology,Machines,$77.71,5,0.3,$14.32,18.4%
+ORD-2026-0387,2025-09-04,Standard Class,CUST-159,Consumer,South,Technology,Phones,$96.61,4,0,$30.71,31.8%
+ORD-2026-0388,2025-09-04,Standard Class,CUST-221,Corporate,West,Furniture,Tables,$579.11,7,0.2,$49.84,8.6%
+ORD-2026-0389,2025-09-05,Second Class,CUST-230,Home Office,East,Furniture,Bookcases,$257.43,7,0,$72.71,28.2%
+ORD-2026-0390,2025-09-06,First Class,CUST-247,Corporate,East,Office Supplies,Storage,$210.57,6,0.1,-$2.41,-1.1%
+ORD-2026-0391,2025-09-06,Same Day,CUST-145,Home Office,South,Furniture,Tables,$125.52,5,0.3,$5.37,4.3%
+ORD-2026-0392,2025-09-07,Standard Class,CUST-114,Consumer,East,Technology,Accessories,$284.89,1,0,$110.30,38.7%
+ORD-2026-0393,2025-09-07,Standard Class,CUST-252,Consumer,West,Office Supplies,Paper,$72.17,3,0.2,$22.70,31.5%
+ORD-2026-0394,2025-09-08,Second Class,CUST-298,Consumer,South,Technology,Machines,$195.11,9,0.1,$27.45,14.1%
+ORD-2026-0395,2025-09-09,Standard Class,CUST-116,Corporate,West,Office Supplies,Binders,$772.09,1,0.1,$255.12,33.0%
+ORD-2026-0396,2025-09-09,First Class,CUST-225,Home Office,East,Office Supplies,Storage,$66.67,5,0.1,$9.68,14.5%
+ORD-2026-0397,2025-09-10,First Class,CUST-183,Consumer,South,Technology,Copiers,$178.14,2,0.3,$5.71,3.2%
+ORD-2026-0398,2025-09-11,Standard Class,CUST-108,Corporate,West,Furniture,Furnishings,$288.99,4,0,$9.67,3.3%
+ORD-2026-0399,2025-09-11,Second Class,CUST-265,Consumer,East,Office Supplies,Storage,$381.20,1,0,$139.04,36.5%
+ORD-2026-0400,2025-09-12,Second Class,CUST-275,Corporate,East,Office Supplies,Paper,$199.84,3,0.3,-$1.93,-1.0%
+ORD-2026-0401,2025-09-13,Standard Class,CUST-287,Consumer,Central,Technology,Machines,$60.03,7,0.2,$9.12,15.2%
+ORD-2026-0402,2025-09-13,First Class,CUST-162,Home Office,East,Technology,Accessories,$69.24,3,0,$12.31,17.8%
+ORD-2026-0403,2025-09-14,Standard Class,CUST-216,Corporate,West,Technology,Accessories,$13.15,4,0.1,$3.19,24.3%
+ORD-2026-0404,2025-09-14,First Class,CUST-229,Consumer,South,Office Supplies,Paper,$224.62,2,0.1,$30.25,13.5%
+ORD-2026-0405,2025-09-15,Standard Class,CUST-187,Consumer,Central,Furniture,Chairs,$16.55,3,0,$0.60,3.6%
+ORD-2026-0406,2025-09-16,First Class,CUST-171,Consumer,East,Office Supplies,Storage,$309.99,9,0,-$4.74,-1.5%
+ORD-2026-0407,2025-09-16,Standard Class,CUST-238,Consumer,East,Furniture,Bookcases,$28.95,3,0.1,$5.48,18.9%
+ORD-2026-0408,2025-09-17,Standard Class,CUST-163,Consumer,East,Furniture,Furnishings,$38.29,5,0,$9.94,26.0%
+ORD-2026-0409,2025-09-18,First Class,CUST-171,Home Office,West,Furniture,Tables,$107.09,2,0.2,$15.83,14.8%
+ORD-2026-0410,2025-09-18,Standard Class,CUST-120,Corporate,Central,Furniture,Chairs,$210.84,4,0.2,$45.40,21.5%
+ORD-2026-0411,2025-09-19,Standard Class,CUST-117,Corporate,West,Office Supplies,Storage,$32.45,7,0,-$0.95,-2.9%
+ORD-2026-0412,2025-09-20,Same Day,CUST-163,Consumer,Central,Furniture,Tables,$96.99,7,0,$33.10,34.1%
+ORD-2026-0413,2025-09-20,Same Day,CUST-181,Home Office,South,Furniture,Tables,$108.91,3,0,$20.82,19.1%
+ORD-2026-0414,2025-09-21,Standard Class,CUST-209,Corporate,West,Technology,Copiers,$45.79,5,0,-$1.67,-3.6%
+ORD-2026-0415,2025-09-21,Second Class,CUST-194,Consumer,West,Office Supplies,Binders,$28.42,1,0.2,$2.98,10.5%
+ORD-2026-0416,2025-09-22,Standard Class,CUST-265,Corporate,South,Office Supplies,Art,$281.57,1,0,$90.78,32.2%
+ORD-2026-0417,2025-09-23,Standard Class,CUST-131,Corporate,Central,Technology,Phones,$114.71,5,0.1,$36.01,31.4%
+ORD-2026-0418,2025-09-23,Standard Class,CUST-110,Consumer,East,Technology,Machines,$12.17,9,0,$0.39,3.2%
+ORD-2026-0419,2025-09-24,Second Class,CUST-144,Consumer,South,Office Supplies,Binders,$253.67,1,0,$64.85,25.6%
+ORD-2026-0420,2025-09-25,Second Class,CUST-132,Consumer,East,Technology,Accessories,$602.88,1,0,-$30.15,-5.0%
+ORD-2026-0421,2025-09-25,Second Class,CUST-201,Consumer,East,Technology,Accessories,$149.68,4,0,-$12.46,-8.3%
+ORD-2026-0422,2025-09-26,Second Class,CUST-268,Home Office,South,Furniture,Chairs,$115.09,4,0,$20.74,18.0%
+ORD-2026-0423,2025-09-27,Standard Class,CUST-235,Home Office,Central,Office Supplies,Appliances,$326.07,2,0,$80.67,24.7%
+ORD-2026-0424,2025-09-27,Standard Class,CUST-110,Corporate,East,Technology,Accessories,$467.11,9,0.3,$97.40,20.9%
+ORD-2026-0425,2025-09-28,Standard Class,CUST-278,Consumer,South,Technology,Phones,$220.69,9,0.2,$12.38,5.6%
+ORD-2026-0426,2025-09-28,Standard Class,CUST-187,Consumer,West,Technology,Copiers,$98.44,2,0,-$9.52,-9.7%
+ORD-2026-0427,2025-09-29,Standard Class,CUST-140,Corporate,West,Office Supplies,Binders,$144.55,9,0,$20.20,14.0%
+ORD-2026-0428,2025-09-30,First Class,CUST-244,Corporate,West,Furniture,Chairs,$191.06,6,0,-$17.59,-9.2%
+ORD-2026-0429,2025-09-30,Standard Class,CUST-175,Consumer,South,Office Supplies,Appliances,$42.40,8,0,-$2.29,-5.4%
+ORD-2026-0430,2025-10-01,Standard Class,CUST-220,Corporate,West,Furniture,Chairs,$98.91,4,0,$6.27,6.3%
+ORD-2026-0431,2025-10-02,Standard Class,CUST-145,Home Office,East,Furniture,Tables,$275.64,2,0,$32.69,11.9%
+ORD-2026-0432,2025-10-02,Second Class,CUST-259,Consumer,West,Furniture,Tables,$169.51,2,0,$6.74,4.0%
+ORD-2026-0433,2025-10-03,Second Class,CUST-179,Consumer,West,Technology,Copiers,$89.45,9,0,$17.08,19.1%
+ORD-2026-0434,2025-10-04,Standard Class,CUST-153,Corporate,East,Furniture,Bookcases,$173.31,1,0,-$12.53,-7.2%
+ORD-2026-0435,2025-10-04,Standard Class,CUST-185,Consumer,West,Technology,Copiers,$28.87,7,0,-$0.80,-2.8%
+ORD-2026-0436,2025-10-05,Second Class,CUST-191,Consumer,East,Furniture,Chairs,$87.00,3,0.2,$17.23,19.8%
+ORD-2026-0437,2025-10-06,Standard Class,CUST-247,Consumer,West,Technology,Machines,$246.35,3,0,-$7.13,-2.9%
+ORD-2026-0438,2025-10-06,First Class,CUST-260,Consumer,East,Office Supplies,Paper,$47.37,2,0,$10.42,22.0%
+ORD-2026-0439,2025-10-07,Second Class,CUST-267,Corporate,West,Furniture,Chairs,$40.86,6,0.1,-$2.67,-6.5%
+ORD-2026-0440,2025-10-07,Standard Class,CUST-259,Corporate,East,Technology,Accessories,$461.84,2,0.3,$33.52,7.3%
+ORD-2026-0441,2025-10-08,Standard Class,CUST-196,Consumer,South,Furniture,Chairs,$45.34,4,0.3,-$0.36,-0.8%
+ORD-2026-0442,2025-10-09,Same Day,CUST-101,Home Office,East,Technology,Accessories,$55.35,9,0.2,-$2.00,-3.6%
+ORD-2026-0443,2025-10-09,Standard Class,CUST-132,Home Office,West,Technology,Machines,$534.08,9,0,$98.01,18.4%
+ORD-2026-0444,2025-10-10,Standard Class,CUST-257,Home Office,West,Furniture,Furnishings,$209.04,6,0.1,$68.51,32.8%
+ORD-2026-0445,2025-10-11,First Class,CUST-260,Consumer,Central,Office Supplies,Binders,$190.39,4,0.2,-$11.06,-5.8%
+ORD-2026-0446,2025-10-11,First Class,CUST-176,Consumer,East,Furniture,Tables,$297.52,7,0,$32.96,11.1%
+ORD-2026-0447,2025-10-12,Same Day,CUST-215,Home Office,South,Office Supplies,Paper,$28.46,1,0.1,$6.50,22.8%
+ORD-2026-0448,2025-10-13,Second Class,CUST-253,Corporate,East,Furniture,Chairs,$193.60,4,0.3,$17.80,9.2%
+ORD-2026-0449,2025-10-13,Standard Class,CUST-249,Consumer,East,Furniture,Chairs,$115.08,5,0,$34.90,30.3%
+ORD-2026-0450,2025-10-14,Standard Class,CUST-202,Consumer,South,Office Supplies,Storage,$275.05,8,0,-$2.80,-1.0%
+ORD-2026-0451,2025-10-14,Second Class,CUST-293,Consumer,East,Furniture,Bookcases,$116.43,2,0,$44.22,38.0%
+ORD-2026-0452,2025-10-15,Standard Class,CUST-265,Home Office,South,Technology,Accessories,$155.23,5,0,$14.37,9.3%
+ORD-2026-0453,2025-10-16,Standard Class,CUST-202,Corporate,South,Furniture,Tables,$107.44,6,0,$7.61,7.1%
+ORD-2026-0454,2025-10-16,First Class,CUST-189,Consumer,East,Furniture,Tables,$107.56,5,0.1,$32.65,30.4%
+ORD-2026-0455,2025-10-17,Standard Class,CUST-273,Consumer,East,Technology,Phones,$229.13,9,0.2,$33.35,14.6%
+ORD-2026-0456,2025-10-18,Standard Class,CUST-221,Corporate,West,Technology,Machines,$158.56,1,0,$25.09,15.8%
+ORD-2026-0457,2025-10-18,Standard Class,CUST-242,Home Office,West,Technology,Accessories,$160.47,3,0.3,$29.60,18.4%
+ORD-2026-0458,2025-10-19,Standard Class,CUST-205,Consumer,Central,Furniture,Bookcases,$99.75,2,0,$18.94,19.0%
+ORD-2026-0459,2025-10-20,Standard Class,CUST-218,Corporate,Central,Office Supplies,Paper,$123.61,3,0,-$2.32,-1.9%
+ORD-2026-0460,2025-10-20,Standard Class,CUST-271,Home Office,East,Furniture,Bookcases,$215.40,9,0.2,$40.86,19.0%
+ORD-2026-0461,2025-10-21,Standard Class,CUST-148,Consumer,South,Furniture,Bookcases,$272.25,9,0.2,-$7.25,-2.7%
+ORD-2026-0462,2025-10-21,Second Class,CUST-203,Corporate,Central,Furniture,Furnishings,$188.89,2,0.1,$51.50,27.3%
+ORD-2026-0463,2025-10-22,Second Class,CUST-160,Consumer,East,Office Supplies,Art,$396.70,3,0.3,$109.65,27.6%
+ORD-2026-0464,2025-10-23,Standard Class,CUST-294,Corporate,Central,Technology,Machines,$267.49,4,0.2,$18.98,7.1%
+ORD-2026-0465,2025-10-23,Same Day,CUST-222,Corporate,South,Technology,Phones,$133.78,9,0.3,$11.46,8.6%
+ORD-2026-0466,2025-10-24,Standard Class,CUST-233,Corporate,East,Furniture,Bookcases,$176.94,3,0,-$13.59,-7.7%
+ORD-2026-0467,2025-10-25,Standard Class,CUST-108,Corporate,South,Furniture,Tables,$401.18,7,0.2,-$29.89,-7.5%
+ORD-2026-0468,2025-10-25,First Class,CUST-105,Consumer,East,Furniture,Tables,$154.81,3,0.5,$27.92,18.0%
+ORD-2026-0469,2025-10-26,Standard Class,CUST-172,Home Office,Central,Office Supplies,Paper,$271.28,7,0.2,-$7.75,-2.9%
+ORD-2026-0470,2025-10-27,Same Day,CUST-202,Corporate,West,Office Supplies,Paper,$185.10,7,0,$22.75,12.3%
+ORD-2026-0471,2025-10-27,Standard Class,CUST-259,Consumer,Central,Office Supplies,Storage,$130.42,9,0.1,$36.11,27.7%
+ORD-2026-0472,2025-10-28,Same Day,CUST-140,Corporate,Central,Office Supplies,Storage,$51.53,2,0.1,$15.98,31.0%
+ORD-2026-0473,2025-10-28,Standard Class,CUST-213,Corporate,West,Office Supplies,Binders,$93.27,6,0,$14.90,16.0%
+ORD-2026-0474,2025-10-29,First Class,CUST-107,Consumer,West,Office Supplies,Art,$525.10,9,0.5,$47.92,9.1%
+ORD-2026-0475,2025-10-30,Standard Class,CUST-171,Home Office,East,Technology,Machines,$170.84,2,0,$40.12,23.5%
+ORD-2026-0476,2025-10-30,Same Day,CUST-277,Home Office,East,Office Supplies,Paper,$134.65,2,0,$51.26,38.1%
+ORD-2026-0477,2025-10-31,Standard Class,CUST-191,Consumer,South,Office Supplies,Art,$415.36,5,0.3,$58.54,14.1%
+ORD-2026-0478,2025-11-01,Standard Class,CUST-161,Home Office,South,Technology,Accessories,$142.47,8,0,$25.61,18.0%
+ORD-2026-0479,2025-11-01,Same Day,CUST-183,Consumer,Central,Technology,Copiers,$122.01,9,0,-$11.31,-9.3%
+ORD-2026-0480,2025-11-02,Standard Class,CUST-161,Consumer,West,Technology,Accessories,$223.64,2,0.1,-$11.98,-5.4%
+ORD-2026-0481,2025-11-03,Second Class,CUST-210,Consumer,South,Technology,Copiers,$197.07,5,0.1,$33.45,17.0%
+ORD-2026-0482,2025-11-03,Second Class,CUST-226,Home Office,Central,Office Supplies,Art,$42.19,7,0,$15.53,36.8%
+ORD-2026-0483,2025-11-04,Standard Class,CUST-106,Corporate,West,Technology,Phones,$105.60,6,0.5,$17.60,16.7%
+ORD-2026-0484,2025-11-04,Second Class,CUST-183,Consumer,East,Furniture,Bookcases,$105.95,6,0.1,$37.31,35.2%
+ORD-2026-0485,2025-11-05,Standard Class,CUST-231,Consumer,Central,Furniture,Tables,$81.28,7,0.1,$11.99,14.8%
+ORD-2026-0486,2025-11-06,First Class,CUST-233,Corporate,East,Furniture,Bookcases,$119.25,3,0.1,$31.55,26.5%
+ORD-2026-0487,2025-11-06,Standard Class,CUST-157,Consumer,South,Technology,Accessories,$89.94,3,0.1,$25.92,28.8%
+ORD-2026-0488,2025-11-07,Standard Class,CUST-121,Home Office,South,Technology,Accessories,$43.35,9,0,$9.71,22.4%
+ORD-2026-0489,2025-11-08,Same Day,CUST-253,Home Office,West,Furniture,Chairs,$89.75,8,0,$6.23,6.9%
+ORD-2026-0490,2025-11-08,First Class,CUST-226,Corporate,Central,Office Supplies,Binders,$21.25,5,0.1,$2.58,12.1%
+ORD-2026-0491,2025-11-09,Standard Class,CUST-102,Home Office,East,Technology,Phones,$138.63,6,0.2,$36.48,26.3%
+ORD-2026-0492,2025-11-10,Second Class,CUST-226,Consumer,West,Office Supplies,Paper,$298.27,1,0,$14.70,4.9%
+ORD-2026-0493,2025-11-10,Standard Class,CUST-140,Home Office,South,Office Supplies,Appliances,$203.80,1,0.1,$66.37,32.6%
+ORD-2026-0494,2025-11-11,Standard Class,CUST-287,Corporate,South,Technology,Phones,$77.04,4,0.2,$0.92,1.2%
+ORD-2026-0495,2025-11-11,Standard Class,CUST-205,Corporate,Central,Furniture,Chairs,$23.66,2,0,$6.50,27.5%
+ORD-2026-0496,2025-11-12,Standard Class,CUST-113,Consumer,East,Furniture,Chairs,$43.88,7,0,$9.45,21.5%
+ORD-2026-0497,2025-11-13,Standard Class,CUST-111,Home Office,Central,Technology,Machines,$128.28,2,0,$35.25,27.5%
+ORD-2026-0498,2025-11-13,Standard Class,CUST-186,Consumer,East,Office Supplies,Paper,$44.80,2,0.1,$4.78,10.7%
+ORD-2026-0499,2025-11-14,Same Day,CUST-111,Consumer,East,Technology,Phones,$127.78,5,0,$46.81,36.6%
+ORD-2026-0500,2025-11-15,Same Day,CUST-240,Consumer,Central,Furniture,Tables,$49.52,4,0,$10.71,21.6%
+ORD-2026-0501,2025-11-15,Second Class,CUST-124,Corporate,West,Furniture,Bookcases,$293.50,8,0.1,$11.66,4.0%
+ORD-2026-0502,2025-11-16,Standard Class,CUST-144,Corporate,Central,Technology,Accessories,$85.94,4,0.1,$16.96,19.7%
+ORD-2026-0503,2025-11-17,Standard Class,CUST-221,Corporate,Central,Furniture,Bookcases,$52.27,6,0,$2.27,4.3%
+ORD-2026-0504,2025-11-17,First Class,CUST-246,Home Office,South,Furniture,Chairs,$260.96,5,0,$12.22,4.7%
+ORD-2026-0505,2025-11-18,Second Class,CUST-154,Consumer,South,Furniture,Tables,$72.97,2,0.2,$5.83,8.0%
+ORD-2026-0506,2025-11-19,Standard Class,CUST-199,Corporate,Central,Furniture,Bookcases,$27.73,8,0.3,$6.33,22.8%
+ORD-2026-0507,2025-11-19,First Class,CUST-272,Consumer,Central,Furniture,Bookcases,$136.74,2,0.3,$14.37,10.5%
+ORD-2026-0508,2025-11-20,First Class,CUST-235,Home Office,South,Furniture,Bookcases,$140.68,9,0.1,$30.32,21.6%
+ORD-2026-0509,2025-11-20,First Class,CUST-218,Home Office,East,Technology,Phones,$198.13,9,0,$19.02,9.6%
+ORD-2026-0510,2025-11-21,Second Class,CUST-152,Corporate,Central,Furniture,Bookcases,$51.21,3,0,$1.63,3.2%
+ORD-2026-0511,2025-11-22,Second Class,CUST-282,Corporate,West,Office Supplies,Art,$97.99,4,0,$36.97,37.7%
+ORD-2026-0512,2025-11-22,Standard Class,CUST-131,Consumer,West,Furniture,Tables,$59.77,8,0,$12.06,20.2%
+ORD-2026-0513,2025-11-23,First Class,CUST-150,Consumer,West,Furniture,Furnishings,$22.66,9,0.1,$7.48,33.0%
+ORD-2026-0514,2025-11-24,First Class,CUST-143,Home Office,Central,Furniture,Chairs,$323.87,3,0,$0.55,0.2%
+ORD-2026-0515,2025-11-24,Standard Class,CUST-181,Consumer,East,Furniture,Tables,$205.77,5,0,-$5.46,-2.7%
+ORD-2026-0516,2025-11-25,Standard Class,CUST-297,Consumer,East,Furniture,Bookcases,$63.82,8,0.5,$10.46,16.4%
+ORD-2026-0517,2025-11-26,Standard Class,CUST-245,Consumer,South,Technology,Accessories,$147.21,3,0,$35.40,24.0%
+ORD-2026-0518,2025-11-26,First Class,CUST-249,Home Office,Central,Furniture,Bookcases,$43.71,7,0,-$0.29,-0.7%
+ORD-2026-0519,2025-11-27,Same Day,CUST-136,Consumer,East,Office Supplies,Appliances,$341.41,8,0,$11.84,3.5%
+ORD-2026-0520,2025-11-27,Standard Class,CUST-195,Consumer,Central,Technology,Copiers,$28.31,3,0.1,$7.65,27.0%
+ORD-2026-0521,2025-11-28,Standard Class,CUST-155,Corporate,South,Office Supplies,Paper,$10.58,2,0.1,$1.21,11.4%
+ORD-2026-0522,2025-11-29,Standard Class,CUST-204,Home Office,South,Furniture,Bookcases,$114.58,7,0,$26.96,23.5%
+ORD-2026-0523,2025-11-29,Same Day,CUST-158,Consumer,South,Technology,Copiers,$141.25,9,0.1,$7.52,5.3%
+ORD-2026-0524,2025-11-30,First Class,CUST-230,Consumer,West,Furniture,Tables,$139.76,1,0.2,$10.13,7.2%
+ORD-2026-0525,2025-12-01,First Class,CUST-255,Consumer,Central,Office Supplies,Paper,$18.41,3,0.2,$5.82,31.6%
+ORD-2026-0526,2025-12-01,Standard Class,CUST-134,Consumer,South,Office Supplies,Storage,$66.54,5,0.5,$0.79,1.2%
+ORD-2026-0527,2025-12-02,Standard Class,CUST-288,Consumer,Central,Office Supplies,Art,$113.73,3,0.2,$13.94,12.3%
+ORD-2026-0528,2025-12-03,Standard Class,CUST-192,Corporate,West,Technology,Phones,$46.61,1,0.1,$13.52,29.0%
+ORD-2026-0529,2025-12-03,Standard Class,CUST-281,Corporate,West,Technology,Machines,$319.09,7,0,$6.26,2.0%
+ORD-2026-0530,2025-12-04,First Class,CUST-290,Corporate,South,Furniture,Chairs,$23.67,7,0,$2.55,10.8%
+ORD-2026-0531,2025-12-04,First Class,CUST-196,Consumer,South,Furniture,Tables,$110.23,8,0,$22.88,20.8%
+ORD-2026-0532,2025-12-05,Same Day,CUST-234,Home Office,East,Office Supplies,Appliances,$186.36,5,0.1,$23.58,12.7%
+ORD-2026-0533,2025-12-06,Same Day,CUST-175,Consumer,Central,Furniture,Tables,$55.52,5,0.2,$5.76,10.4%
+ORD-2026-0534,2025-12-06,Standard Class,CUST-148,Home Office,South,Technology,Machines,$156.82,5,0.1,$11.47,7.3%
+ORD-2026-0535,2025-12-07,Second Class,CUST-193,Corporate,East,Furniture,Bookcases,$275.25,1,0,$53.21,19.3%
+ORD-2026-0536,2025-12-08,First Class,CUST-258,Consumer,Central,Office Supplies,Appliances,$41.67,5,0.1,$7.96,19.1%
+ORD-2026-0537,2025-12-08,First Class,CUST-285,Corporate,South,Technology,Copiers,$383.74,6,0.3,$60.88,15.9%
+ORD-2026-0538,2025-12-09,Standard Class,CUST-288,Consumer,East,Technology,Accessories,$130.97,1,0.1,-$7.64,-5.8%
+ORD-2026-0539,2025-12-10,Standard Class,CUST-123,Corporate,East,Office Supplies,Storage,$63.34,7,0.2,$10.92,17.2%
+ORD-2026-0540,2025-12-10,Standard Class,CUST-247,Consumer,Central,Technology,Accessories,$94.54,1,0.2,$28.48,30.1%
+ORD-2026-0541,2025-12-11,Same Day,CUST-136,Consumer,East,Technology,Machines,$66.14,2,0.3,$7.89,11.9%
+ORD-2026-0542,2025-12-11,Second Class,CUST-103,Home Office,Central,Technology,Accessories,$203.71,2,0.2,$41.99,20.6%
+ORD-2026-0543,2025-12-12,Standard Class,CUST-207,Consumer,Central,Technology,Copiers,$248.67,5,0.2,$35.48,14.3%
+ORD-2026-0544,2025-12-13,Second Class,CUST-225,Home Office,Central,Technology,Accessories,$278.41,7,0,$91.14,32.7%
+ORD-2026-0545,2025-12-13,Second Class,CUST-119,Consumer,West,Technology,Accessories,$647.84,1,0,$236.33,36.5%
+ORD-2026-0546,2025-12-14,Standard Class,CUST-287,Corporate,East,Office Supplies,Paper,$245.02,1,0.1,-$1.74,-0.7%
+ORD-2026-0547,2025-12-15,Standard Class,CUST-251,Corporate,Central,Furniture,Furnishings,$147.96,1,0,$17.52,11.8%
+ORD-2026-0548,2025-12-15,Second Class,CUST-149,Corporate,South,Technology,Machines,$72.15,6,0.5,$3.47,4.8%
+ORD-2026-0549,2025-12-16,Standard Class,CUST-276,Consumer,West,Office Supplies,Appliances,$127.99,2,0,$13.13,10.3%
+ORD-2026-0550,2025-12-17,Second Class,CUST-278,Consumer,West,Technology,Machines,$16.29,1,0.3,-$0.42,-2.6%
+ORD-2026-0551,2025-12-17,Standard Class,CUST-195,Consumer,East,Furniture,Furnishings,$214.87,6,0,$65.92,30.7%
+ORD-2026-0552,2025-12-18,First Class,CUST-204,Consumer,Central,Furniture,Tables,$98.58,2,0,-$8.10,-8.2%
+ORD-2026-0553,2025-12-18,Standard Class,CUST-263,Corporate,East,Office Supplies,Appliances,$13.03,6,0.3,$1.50,11.5%
+ORD-2026-0554,2025-12-19,Standard Class,CUST-216,Home Office,West,Furniture,Tables,$19.68,8,0,$4.54,23.1%
+ORD-2026-0555,2025-12-20,First Class,CUST-197,Home Office,Central,Technology,Machines,$83.52,2,0,$0.31,0.4%
+ORD-2026-0556,2025-12-20,Standard Class,CUST-165,Corporate,South,Office Supplies,Art,$141.35,9,0,$49.89,35.3%
+ORD-2026-0557,2025-12-21,Standard Class,CUST-178,Corporate,Central,Furniture,Bookcases,$103.60,8,0.1,$29.77,28.7%
+ORD-2026-0558,2025-12-22,Standard Class,CUST-261,Corporate,West,Furniture,Bookcases,$154.82,1,0,$20.98,13.6%
+ORD-2026-0559,2025-12-22,Second Class,CUST-263,Consumer,South,Furniture,Bookcases,$108.17,7,0.1,$10.28,9.5%
+ORD-2026-0560,2025-12-23,Second Class,CUST-105,Home Office,Central,Technology,Machines,$172.58,6,0.1,$2.84,1.6%
+ORD-2026-0561,2025-12-24,Second Class,CUST-138,Corporate,South,Furniture,Bookcases,$47.10,6,0.2,$9.99,21.2%
+ORD-2026-0562,2025-12-24,Standard Class,CUST-269,Corporate,South,Office Supplies,Appliances,$27.96,6,0.2,-$0.76,-2.7%
+ORD-2026-0563,2025-12-25,Standard Class,CUST-214,Consumer,West,Office Supplies,Paper,$146.11,6,0.1,$31.58,21.6%
+ORD-2026-0564,2025-12-25,Standard Class,CUST-285,Consumer,South,Technology,Copiers,$109.45,7,0,$35.16,32.1%
+ORD-2026-0565,2025-12-26,Standard Class,CUST-224,Consumer,East,Technology,Phones,$14.09,3,0.2,$0.16,1.1%
+ORD-2026-0566,2025-12-27,Standard Class,CUST-111,Home Office,West,Office Supplies,Art,$81.82,6,0,$27.26,33.3%
+ORD-2026-0567,2025-12-27,Standard Class,CUST-230,Corporate,East,Office Supplies,Appliances,$26.83,3,0.1,-$2.01,-7.5%
+ORD-2026-0568,2025-12-28,Standard Class,CUST-117,Consumer,South,Furniture,Tables,$123.69,7,0,$44.08,35.6%
+ORD-2026-0569,2025-12-29,First Class,CUST-139,Home Office,East,Office Supplies,Binders,$85.57,7,0.3,-$2.45,-2.9%
+ORD-2026-0570,2025-12-29,Standard Class,CUST-120,Consumer,Central,Office Supplies,Appliances,$152.46,8,0,$33.98,22.3%
+ORD-2026-0571,2025-12-30,Standard Class,CUST-242,Consumer,South,Furniture,Bookcases,$255.68,2,0,$6.40,2.5%
+ORD-2026-0572,2025-12-31,Second Class,CUST-198,Consumer,Central,Office Supplies,Storage,$63.43,9,0.1,$18.17,28.6%
+ORD-2026-0573,2025-12-31,Standard Class,CUST-125,Corporate,East,Furniture,Furnishings,$500.93,5,0.1,$70.40,14.1%
+ORD-2026-0574,2026-01-01,Second Class,CUST-107,Home Office,Central,Furniture,Bookcases,$125.06,9,0,-$4.05,-3.2%
+ORD-2026-0575,2026-01-02,First Class,CUST-199,Consumer,South,Office Supplies,Art,$154.46,5,0.1,$25.79,16.7%
+ORD-2026-0576,2026-01-02,First Class,CUST-186,Home Office,Central,Office Supplies,Art,$181.23,7,0.2,$15.07,8.3%
+ORD-2026-0577,2026-01-03,Standard Class,CUST-141,Consumer,East,Technology,Copiers,$174.82,9,0.5,$20.17,11.5%
+ORD-2026-0578,2026-01-03,First Class,CUST-271,Home Office,East,Furniture,Tables,$117.30,4,0.1,$35.99,30.7%
+ORD-2026-0579,2026-01-04,Standard Class,CUST-113,Corporate,East,Office Supplies,Binders,$93.99,2,0,$9.84,10.5%
+ORD-2026-0580,2026-01-05,Standard Class,CUST-177,Home Office,South,Technology,Accessories,$18.29,9,0,$0.82,4.5%
+ORD-2026-0581,2026-01-05,Standard Class,CUST-101,Consumer,East,Technology,Accessories,$13.35,2,0.3,-$0.87,-6.5%
+ORD-2026-0582,2026-01-06,Same Day,CUST-218,Home Office,South,Office Supplies,Paper,$76.47,3,0.2,$11.47,15.0%
+ORD-2026-0583,2026-01-07,Standard Class,CUST-136,Corporate,Central,Office Supplies,Paper,$70.89,2,0,$7.17,10.1%
+ORD-2026-0584,2026-01-07,Standard Class,CUST-168,Consumer,East,Technology,Copiers,$83.58,3,0,$7.30,8.7%
+ORD-2026-0585,2026-01-08,Second Class,CUST-265,Home Office,Central,Office Supplies,Storage,$32.34,6,0.2,-$0.22,-0.7%
+ORD-2026-0586,2026-01-09,Standard Class,CUST-140,Consumer,West,Office Supplies,Appliances,$211.01,3,0,$24.27,11.5%
+ORD-2026-0587,2026-01-09,Standard Class,CUST-161,Home Office,Central,Furniture,Tables,$301.70,8,0,$118.33,39.2%
+ORD-2026-0588,2026-01-10,Standard Class,CUST-159,Consumer,West,Furniture,Furnishings,$428.83,6,0,$20.96,4.9%
+ORD-2026-0589,2026-01-10,Standard Class,CUST-224,Corporate,Central,Furniture,Tables,$111.70,7,0,$22.32,20.0%
+ORD-2026-0590,2026-01-11,Standard Class,CUST-210,Corporate,South,Office Supplies,Appliances,$191.03,1,0,$55.06,28.8%
+ORD-2026-0591,2026-01-12,Standard Class,CUST-113,Consumer,Central,Technology,Machines,$300.22,3,0.2,$65.95,22.0%
+ORD-2026-0592,2026-01-12,Second Class,CUST-183,Consumer,South,Technology,Accessories,$91.27,3,0,$5.88,6.4%
+ORD-2026-0593,2026-01-13,Standard Class,CUST-229,Consumer,South,Office Supplies,Appliances,$65.53,2,0,$13.46,20.5%
+ORD-2026-0594,2026-01-14,Standard Class,CUST-169,Consumer,East,Technology,Copiers,$424.04,7,0,$142.32,33.6%
+ORD-2026-0595,2026-01-14,First Class,CUST-244,Consumer,South,Technology,Copiers,$118.75,9,0,-$10.96,-9.2%
+ORD-2026-0596,2026-01-15,Standard Class,CUST-222,Corporate,West,Office Supplies,Art,$113.15,4,0,$13.34,11.8%
+ORD-2026-0597,2026-01-16,Second Class,CUST-188,Consumer,East,Office Supplies,Appliances,$39.48,5,0,$0.48,1.2%
+ORD-2026-0598,2026-01-16,Standard Class,CUST-127,Consumer,East,Furniture,Furnishings,$27.17,3,0.2,$2.05,7.5%
+ORD-2026-0599,2026-01-17,Standard Class,CUST-165,Corporate,Central,Furniture,Chairs,$286.88,9,0,$30.98,10.8%
+ORD-2026-0600,2026-01-17,Standard Class,CUST-262,Consumer,South,Technology,Accessories,$152.84,4,0,$41.78,27.3%
+ORD-2026-0601,2026-01-18,Standard Class,CUST-104,Home Office,South,Office Supplies,Appliances,$69.14,5,0,-$3.67,-5.3%
+ORD-2026-0602,2026-01-19,Standard Class,CUST-292,Home Office,West,Furniture,Furnishings,$41.93,1,0.1,$5.90,14.1%
+ORD-2026-0603,2026-01-19,Standard Class,CUST-267,Corporate,Central,Technology,Copiers,$131.62,2,0.3,$16.78,12.7%
+ORD-2026-0604,2026-01-20,Standard Class,CUST-283,Corporate,Central,Furniture,Furnishings,$141.53,9,0,$20.82,14.7%
+ORD-2026-0605,2026-01-21,Standard Class,CUST-263,Home Office,East,Office Supplies,Binders,$44.79,2,0.3,$8.34,18.6%
+ORD-2026-0606,2026-01-21,Standard Class,CUST-144,Consumer,East,Office Supplies,Paper,$295.98,5,0,$27.20,9.2%
+ORD-2026-0607,2026-01-22,Standard Class,CUST-250,Consumer,East,Office Supplies,Storage,$23.20,8,0.2,$6.91,29.8%
+ORD-2026-0608,2026-01-23,Standard Class,CUST-146,Consumer,West,Technology,Phones,$76.03,3,0,$10.71,14.1%
+ORD-2026-0609,2026-01-23,Standard Class,CUST-130,Corporate,West,Technology,Machines,$181.10,6,0.1,$30.25,16.7%
+ORD-2026-0610,2026-01-24,Second Class,CUST-238,Consumer,East,Furniture,Tables,$58.06,4,0.1,$16.34,28.1%
+ORD-2026-0611,2026-01-24,Standard Class,CUST-109,Corporate,Central,Office Supplies,Binders,$273.76,7,0,$10.30,3.8%
+ORD-2026-0612,2026-01-25,Second Class,CUST-294,Home Office,West,Technology,Phones,$211.98,3,0.2,-$10.58,-5.0%
+ORD-2026-0613,2026-01-26,Second Class,CUST-217,Home Office,Central,Office Supplies,Appliances,$243.40,6,0.2,$49.44,20.3%
+ORD-2026-0614,2026-01-26,Standard Class,CUST-113,Corporate,Central,Office Supplies,Storage,$29.02,9,0,$4.11,14.2%
+ORD-2026-0615,2026-01-27,First Class,CUST-179,Consumer,South,Technology,Phones,$32.72,1,0,$11.39,34.8%
+ORD-2026-0616,2026-01-28,First Class,CUST-192,Home Office,East,Technology,Copiers,$60.63,3,0,$23.73,39.1%
+ORD-2026-0617,2026-01-28,Standard Class,CUST-109,Corporate,South,Furniture,Tables,$119.50,2,0.2,$9.52,8.0%
+ORD-2026-0618,2026-01-29,Standard Class,CUST-175,Consumer,East,Technology,Phones,$216.76,8,0.1,$21.01,9.7%
+ORD-2026-0619,2026-01-30,First Class,CUST-193,Consumer,East,Technology,Copiers,$281.67,7,0,$29.29,10.4%
+ORD-2026-0620,2026-01-30,Second Class,CUST-204,Home Office,Central,Technology,Copiers,$192.78,2,0.1,$10.81,5.6%
+ORD-2026-0621,2026-01-31,Standard Class,CUST-100,Corporate,East,Furniture,Chairs,$405.91,6,0.3,$82.64,20.4%
+ORD-2026-0622,2026-01-31,Standard Class,CUST-232,Home Office,Central,Furniture,Bookcases,$211.34,3,0.1,$53.16,25.2%
+ORD-2026-0623,2026-02-01,Standard Class,CUST-119,Home Office,Central,Technology,Copiers,$64.85,8,0.2,$7.23,11.1%
+ORD-2026-0624,2026-02-02,Standard Class,CUST-107,Corporate,East,Furniture,Bookcases,$56.20,3,0.2,-$3.49,-6.2%
+ORD-2026-0625,2026-02-02,Second Class,CUST-270,Corporate,Central,Office Supplies,Storage,$188.70,9,0,$10.34,5.5%
+ORD-2026-0626,2026-02-03,Standard Class,CUST-100,Consumer,Central,Office Supplies,Art,$42.14,1,0,$1.94,4.6%
+ORD-2026-0627,2026-02-04,Standard Class,CUST-156,Consumer,Central,Furniture,Bookcases,$24.59,5,0.2,$6.01,24.4%
+ORD-2026-0628,2026-02-04,Second Class,CUST-163,Consumer,West,Office Supplies,Binders,$123.96,3,0,-$6.97,-5.6%
+ORD-2026-0629,2026-02-05,Standard Class,CUST-217,Corporate,Central,Furniture,Furnishings,$268.59,6,0.3,$56.94,21.2%
+ORD-2026-0630,2026-02-06,Standard Class,CUST-127,Corporate,West,Technology,Copiers,$26.03,2,0,$6.11,23.5%
+ORD-2026-0631,2026-02-06,Second Class,CUST-220,Home Office,West,Technology,Accessories,$245.45,9,0,$65.34,26.6%
+ORD-2026-0632,2026-02-07,First Class,CUST-206,Consumer,Central,Technology,Copiers,$260.36,6,0.3,$21.16,8.1%
+ORD-2026-0633,2026-02-07,Standard Class,CUST-264,Corporate,Central,Furniture,Chairs,$108.75,7,0.1,$23.48,21.6%
+ORD-2026-0634,2026-02-08,Standard Class,CUST-274,Corporate,West,Furniture,Tables,$18.85,5,0,$3.86,20.5%
+ORD-2026-0635,2026-02-09,Standard Class,CUST-264,Corporate,West,Technology,Phones,$38.78,9,0.2,$8.83,22.8%
+ORD-2026-0636,2026-02-09,Standard Class,CUST-148,Corporate,Central,Furniture,Chairs,$194.36,1,0.1,$21.58,11.1%
+ORD-2026-0637,2026-02-10,Standard Class,CUST-219,Consumer,Central,Technology,Copiers,$196.60,5,0.1,$24.14,12.3%
+ORD-2026-0638,2026-02-11,Standard Class,CUST-143,Corporate,East,Technology,Accessories,$352.94,6,0,$78.28,22.2%
+ORD-2026-0639,2026-02-11,Standard Class,CUST-155,Consumer,West,Office Supplies,Appliances,$141.09,7,0.2,-$5.19,-3.7%
+ORD-2026-0640,2026-02-12,Standard Class,CUST-255,Consumer,West,Technology,Phones,$29.88,4,0.3,$2.47,8.3%
+ORD-2026-0641,2026-02-13,Standard Class,CUST-210,Consumer,East,Technology,Copiers,$29.42,1,0,$11.36,38.6%
+ORD-2026-0642,2026-02-13,Standard Class,CUST-233,Corporate,West,Technology,Accessories,$201.55,8,0.3,-$11.46,-5.7%
+ORD-2026-0643,2026-02-14,Standard Class,CUST-207,Home Office,South,Office Supplies,Art,$40.46,4,0.3,$1.64,4.1%
+ORD-2026-0644,2026-02-15,Standard Class,CUST-288,Corporate,West,Furniture,Bookcases,$69.71,3,0.1,$3.58,5.1%
+ORD-2026-0645,2026-02-15,Standard Class,CUST-247,Corporate,East,Technology,Phones,$110.18,7,0.1,$21.49,19.5%
+ORD-2026-0646,2026-02-16,First Class,CUST-213,Corporate,South,Technology,Phones,$13.76,2,0,-$0.65,-4.7%
+ORD-2026-0647,2026-02-16,Standard Class,CUST-177,Corporate,Central,Office Supplies,Art,$52.92,8,0,$11.34,21.4%
+ORD-2026-0648,2026-02-17,Second Class,CUST-229,Consumer,East,Office Supplies,Paper,$88.61,6,0.2,-$3.72,-4.2%
+ORD-2026-0649,2026-02-18,Second Class,CUST-136,Consumer,East,Office Supplies,Art,$59.20,7,0.3,-$2.18,-3.7%
+ORD-2026-0650,2026-02-18,Standard Class,CUST-119,Consumer,Central,Office Supplies,Paper,$31.99,5,0.1,$7.60,23.8%
+ORD-2026-0651,2026-02-19,Standard Class,CUST-125,Consumer,East,Office Supplies,Storage,$205.30,9,0.1,$11.47,5.6%
+ORD-2026-0652,2026-02-20,Standard Class,CUST-128,Consumer,West,Technology,Phones,$261.62,5,0,$101.69,38.9%
+ORD-2026-0653,2026-02-20,Standard Class,CUST-100,Consumer,Central,Office Supplies,Storage,$54.66,5,0,-$4.45,-8.1%
+ORD-2026-0654,2026-02-21,Second Class,CUST-218,Consumer,East,Technology,Accessories,$233.36,3,0,$28.60,12.3%
+ORD-2026-0655,2026-02-22,Standard Class,CUST-134,Home Office,Central,Office Supplies,Storage,$83.06,1,0,-$3.61,-4.3%
+ORD-2026-0656,2026-02-22,Standard Class,CUST-297,Consumer,Central,Furniture,Furnishings,$115.99,2,0.1,$7.90,6.8%
+ORD-2026-0657,2026-02-23,Standard Class,CUST-158,Consumer,Central,Furniture,Bookcases,$300.69,8,0,$120.01,39.9%
+ORD-2026-0658,2026-02-23,Standard Class,CUST-168,Consumer,South,Furniture,Bookcases,$217.92,1,0.2,$60.05,27.6%
+ORD-2026-0659,2026-02-24,Second Class,CUST-260,Corporate,East,Technology,Phones,$255.30,7,0,-$19.36,-7.6%
+ORD-2026-0660,2026-02-25,Standard Class,CUST-278,Consumer,South,Furniture,Tables,$32.07,5,0.1,$5.24,16.3%
+ORD-2026-0661,2026-02-25,Standard Class,CUST-111,Consumer,East,Office Supplies,Storage,$20.84,3,0.1,$4.20,20.2%
+ORD-2026-0662,2026-02-26,Same Day,CUST-119,Corporate,West,Furniture,Furnishings,$345.81,7,0,$1.65,0.5%
+ORD-2026-0663,2026-02-27,Second Class,CUST-280,Consumer,West,Technology,Machines,$83.61,9,0,-$2.29,-2.7%
+ORD-2026-0664,2026-02-27,Standard Class,CUST-142,Consumer,West,Furniture,Bookcases,$60.93,2,0,$21.46,35.2%
+ORD-2026-0665,2026-02-28,Standard Class,CUST-225,Consumer,East,Office Supplies,Binders,$203.48,8,0.3,$54.75,26.9%
+ORD-2026-0666,2026-03-01,Standard Class,CUST-149,Consumer,Central,Technology,Phones,$281.56,9,0,$111.48,39.6%
+ORD-2026-0667,2026-03-01,Standard Class,CUST-128,Consumer,Central,Furniture,Tables,$307.61,3,0.2,$72.57,23.6%
+ORD-2026-0668,2026-03-02,Standard Class,CUST-284,Consumer,South,Office Supplies,Binders,$66.97,2,0.5,$7.76,11.6%
+ORD-2026-0669,2026-03-02,Standard Class,CUST-138,Home Office,South,Office Supplies,Paper,$296.80,7,0.2,$17.30,5.8%
+ORD-2026-0670,2026-03-03,Standard Class,CUST-283,Corporate,West,Technology,Copiers,$16.27,5,0,-$0.23,-1.4%
+ORD-2026-0671,2026-03-04,Standard Class,CUST-270,Corporate,South,Technology,Copiers,$17.64,5,0.3,-$0.75,-4.3%
+ORD-2026-0672,2026-03-04,First Class,CUST-277,Consumer,East,Office Supplies,Art,$156.53,5,0,$38.61,24.7%
+ORD-2026-0673,2026-03-05,Standard Class,CUST-250,Home Office,East,Office Supplies,Storage,$19.78,4,0,$5.78,29.2%
+ORD-2026-0674,2026-03-06,Standard Class,CUST-271,Consumer,South,Office Supplies,Appliances,$68.87,5,0.3,$15.10,21.9%
+ORD-2026-0675,2026-03-06,Standard Class,CUST-137,Consumer,South,Furniture,Tables,$177.56,4,0.1,$57.03,32.1%
+ORD-2026-0676,2026-03-07,Same Day,CUST-183,Corporate,South,Furniture,Chairs,$71.71,6,0,$24.38,34.0%
+ORD-2026-0677,2026-03-08,Standard Class,CUST-250,Consumer,South,Office Supplies,Binders,$39.69,4,0,$15.87,40.0%
+ORD-2026-0678,2026-03-08,Standard Class,CUST-227,Consumer,West,Office Supplies,Binders,$59.56,2,0,$1.31,2.2%
+ORD-2026-0679,2026-03-09,Same Day,CUST-225,Corporate,West,Technology,Machines,$101.76,9,0.1,$25.79,25.3%
+ORD-2026-0680,2026-03-09,First Class,CUST-144,Home Office,South,Technology,Accessories,$106.76,2,0,$20.63,19.3%
+ORD-2026-0681,2026-03-10,First Class,CUST-151,Consumer,East,Furniture,Furnishings,$239.18,9,0.5,$3.66,1.5%
+ORD-2026-0682,2026-03-11,Standard Class,CUST-179,Corporate,West,Office Supplies,Paper,$218.04,6,0.3,$59.67,27.4%
+ORD-2026-0683,2026-03-11,Standard Class,CUST-277,Home Office,East,Technology,Machines,$101.55,9,0.3,$24.81,24.4%
+ORD-2026-0684,2026-03-12,Second Class,CUST-223,Consumer,Central,Office Supplies,Storage,$290.30,9,0,-$10.38,-3.6%
+ORD-2026-0685,2026-03-13,First Class,CUST-218,Consumer,East,Technology,Machines,$28.20,3,0.1,-$2.21,-7.8%
+ORD-2026-0686,2026-03-13,Standard Class,CUST-107,Consumer,South,Furniture,Bookcases,$54.23,1,0.3,$9.27,17.1%
+ORD-2026-0687,2026-03-14,Standard Class,CUST-184,Consumer,Central,Technology,Machines,$274.02,1,0.3,$38.76,14.1%
+ORD-2026-0688,2026-03-15,Standard Class,CUST-228,Consumer,West,Technology,Phones,$81.22,3,0,$29.88,36.8%
+ORD-2026-0689,2026-03-15,Second Class,CUST-107,Home Office,West,Technology,Machines,$605.94,5,0,$10.30,1.7%
+ORD-2026-0690,2026-03-16,Standard Class,CUST-256,Corporate,Central,Technology,Phones,$104.18,3,0,-$6.02,-5.8%
+ORD-2026-0691,2026-03-16,Standard Class,CUST-195,Corporate,East,Technology,Copiers,$245.49,9,0.1,$6.54,2.7%
+ORD-2026-0692,2026-03-17,Standard Class,CUST-201,Consumer,West,Furniture,Tables,$87.20,9,0.1,-$7.11,-8.2%
+ORD-2026-0693,2026-03-18,Standard Class,CUST-104,Home Office,South,Furniture,Bookcases,$93.00,3,0.2,-$6.10,-6.6%
+ORD-2026-0694,2026-03-18,Standard Class,CUST-185,Home Office,Central,Technology,Copiers,$82.40,3,0,$29.45,35.7%
+ORD-2026-0695,2026-03-19,Standard Class,CUST-274,Home Office,South,Furniture,Furnishings,$200.45,5,0,$15.24,7.6%
+ORD-2026-0696,2026-03-20,Second Class,CUST-133,Consumer,Central,Technology,Copiers,$128.95,2,0,$13.59,10.5%
+ORD-2026-0697,2026-03-20,Standard Class,CUST-292,Corporate,West,Furniture,Tables,$441.77,6,0,-$40.12,-9.1%
+ORD-2026-0698,2026-03-21,Standard Class,CUST-154,Consumer,East,Office Supplies,Art,$53.33,7,0,$1.88,3.5%
+ORD-2026-0699,2026-03-22,Standard Class,CUST-218,Consumer,Central,Technology,Phones,$25.90,9,0.1,$7.05,27.2%
+ORD-2026-0700,2026-03-22,Standard Class,CUST-270,Consumer,Central,Technology,Machines,$84.95,6,0.1,$15.88,18.7%
+ORD-2026-0701,2026-03-23,Standard Class,CUST-257,Corporate,South,Furniture,Chairs,$153.85,3,0.2,$34.08,22.2%
+ORD-2026-0702,2026-03-23,Standard Class,CUST-213,Corporate,West,Office Supplies,Appliances,$305.78,5,0,$37.80,12.4%
+ORD-2026-0703,2026-03-24,Standard Class,CUST-244,Consumer,South,Technology,Accessories,$73.74,4,0,$4.05,5.5%
+ORD-2026-0704,2026-03-25,Standard Class,CUST-125,Consumer,West,Technology,Accessories,$169.11,5,0,$23.91,14.1%
+ORD-2026-0705,2026-03-25,Standard Class,CUST-235,Consumer,South,Office Supplies,Art,$74.66,8,0.3,$3.22,4.3%
+ORD-2026-0706,2026-03-26,Same Day,CUST-146,Consumer,Central,Office Supplies,Binders,$154.04,8,0,$49.21,31.9%
+ORD-2026-0707,2026-03-27,Standard Class,CUST-212,Consumer,South,Technology,Machines,$334.17,6,0.2,$13.06,3.9%
+ORD-2026-0708,2026-03-27,First Class,CUST-175,Consumer,East,Office Supplies,Binders,$49.47,1,0,$11.37,23.0%
+ORD-2026-0709,2026-03-28,Standard Class,CUST-171,Corporate,West,Technology,Phones,$87.69,8,0.3,-$1.93,-2.2%
+ORD-2026-0710,2026-03-29,Second Class,CUST-188,Consumer,West,Technology,Phones,$760.07,8,0.2,$148.02,19.5%
+ORD-2026-0711,2026-03-29,Second Class,CUST-145,Consumer,Central,Office Supplies,Paper,$314.38,2,0,$112.12,35.7%
+ORD-2026-0712,2026-03-30,Standard Class,CUST-295,Consumer,West,Technology,Machines,$134.74,4,0.1,$24.77,18.4%
+ORD-2026-0713,2026-03-30,Standard Class,CUST-132,Home Office,East,Technology,Accessories,$119.05,2,0,$21.42,18.0%
+ORD-2026-0714,2026-03-31,Standard Class,CUST-100,Corporate,South,Furniture,Tables,$60.24,4,0.3,$16.05,26.6%
+ORD-2026-0715,2026-04-01,Standard Class,CUST-246,Corporate,Central,Office Supplies,Art,$119.23,7,0,$25.48,21.4%
+ORD-2026-0716,2026-04-01,First Class,CUST-130,Consumer,East,Furniture,Furnishings,$292.76,9,0,$8.72,3.0%
+ORD-2026-0717,2026-04-02,First Class,CUST-241,Corporate,West,Furniture,Chairs,$183.36,8,0.2,$6.78,3.7%
+ORD-2026-0718,2026-04-03,Same Day,CUST-152,Consumer,West,Furniture,Tables,$61.38,9,0.2,$12.41,20.2%
+ORD-2026-0719,2026-04-03,Standard Class,CUST-147,Corporate,East,Office Supplies,Art,$43.75,8,0,$11.71,26.8%
+ORD-2026-0720,2026-04-04,Second Class,CUST-168,Home Office,South,Technology,Accessories,$56.23,2,0.1,$2.62,4.7%
+ORD-2026-0721,2026-04-05,First Class,CUST-204,Corporate,South,Office Supplies,Binders,$37.91,7,0,$2.75,7.3%
+ORD-2026-0722,2026-04-05,Standard Class,CUST-189,Home Office,Central,Technology,Copiers,$25.08,2,0,$9.92,39.6%
+ORD-2026-0723,2026-04-06,Standard Class,CUST-289,Corporate,West,Technology,Machines,$91.49,2,0.1,-$4.04,-4.4%
+ORD-2026-0724,2026-04-07,Second Class,CUST-293,Consumer,East,Office Supplies,Appliances,$28.04,4,0,$2.87,10.2%
+ORD-2026-0725,2026-04-07,Standard Class,CUST-291,Home Office,South,Office Supplies,Binders,$38.30,1,0,-$2.63,-6.9%
+ORD-2026-0726,2026-04-08,First Class,CUST-297,Consumer,Central,Office Supplies,Storage,$128.89,5,0.2,$32.02,24.8%
+ORD-2026-0727,2026-04-08,Standard Class,CUST-162,Corporate,West,Office Supplies,Paper,$36.98,6,0,-$1.99,-5.4%
+ORD-2026-0728,2026-04-09,Second Class,CUST-172,Consumer,West,Furniture,Bookcases,$19.90,9,0.1,$4.24,21.3%
+ORD-2026-0729,2026-04-10,Standard Class,CUST-260,Consumer,Central,Technology,Copiers,$67.27,8,0,-$4.83,-7.2%
+ORD-2026-0730,2026-04-10,Standard Class,CUST-268,Consumer,Central,Office Supplies,Paper,$47.33,2,0,$11.19,23.6%
+ORD-2026-0731,2026-04-11,Standard Class,CUST-188,Consumer,South,Technology,Accessories,$118.64,1,0,$38.14,32.1%
+ORD-2026-0732,2026-04-12,First Class,CUST-275,Consumer,East,Furniture,Furnishings,$26.20,2,0.1,$2.34,8.9%
+ORD-2026-0733,2026-04-12,Second Class,CUST-112,Corporate,West,Office Supplies,Paper,$219.01,7,0.2,$28.22,12.9%
+ORD-2026-0734,2026-04-13,Standard Class,CUST-172,Consumer,East,Office Supplies,Appliances,$365.04,4,0,$36.79,10.1%
+ORD-2026-0735,2026-04-14,Standard Class,CUST-176,Consumer,West,Furniture,Furnishings,$214.06,5,0,$10.76,5.0%
+ORD-2026-0736,2026-04-14,First Class,CUST-258,Corporate,West,Office Supplies,Storage,$124.16,7,0.3,$26.22,21.1%
+ORD-2026-0737,2026-04-15,Standard Class,CUST-167,Consumer,East,Furniture,Bookcases,$305.63,3,0,$11.00,3.6%
+ORD-2026-0738,2026-04-15,First Class,CUST-197,Corporate,Central,Office Supplies,Appliances,$188.08,2,0.3,$34.42,18.3%
+ORD-2026-0739,2026-04-16,Standard Class,CUST-224,Corporate,South,Furniture,Furnishings,$11.59,7,0,$0.04,0.3%
+ORD-2026-0740,2026-04-17,Standard Class,CUST-201,Home Office,West,Furniture,Furnishings,$85.15,5,0.2,$1.70,2.0%
+ORD-2026-0741,2026-04-17,Standard Class,CUST-231,Corporate,Central,Office Supplies,Storage,$295.52,1,0,$20.16,6.8%
+ORD-2026-0742,2026-04-18,Standard Class,CUST-201,Consumer,West,Furniture,Tables,$73.66,1,0.3,$10.03,13.6%
+ORD-2026-0743,2026-04-19,Second Class,CUST-118,Corporate,South,Furniture,Furnishings,$15.38,9,0.2,$1.57,10.2%
+ORD-2026-0744,2026-04-19,Standard Class,CUST-297,Consumer,West,Furniture,Bookcases,$215.67,5,0,$58.79,27.3%
+ORD-2026-0745,2026-04-20,Standard Class,CUST-181,Consumer,South,Office Supplies,Storage,$252.95,1,0,$1.72,0.7%
+ORD-2026-0746,2026-04-21,First Class,CUST-240,Corporate,South,Technology,Phones,$36.26,7,0.2,-$2.75,-7.6%
+ORD-2026-0747,2026-04-21,Standard Class,CUST-122,Consumer,West,Technology,Machines,$125.61,9,0.1,$32.59,25.9%
+ORD-2026-0748,2026-04-22,Standard Class,CUST-182,Corporate,West,Office Supplies,Art,$41.97,1,0,$13.05,31.1%
+ORD-2026-0749,2026-04-22,First Class,CUST-208,Home Office,South,Technology,Phones,$200.54,4,0,-$14.09,-7.0%
+ORD-2026-0750,2026-04-23,Second Class,CUST-174,Home Office,Central,Office Supplies,Appliances,$57.53,3,0.2,$9.46,16.4%
+ORD-2026-0751,2026-04-24,Standard Class,CUST-228,Home Office,East,Furniture,Chairs,$67.02,5,0,$5.97,8.9%
+ORD-2026-0752,2026-04-24,First Class,CUST-187,Consumer,South,Furniture,Chairs,$289.62,7,0.1,$77.40,26.7%
+ORD-2026-0753,2026-04-25,Second Class,CUST-153,Consumer,West,Office Supplies,Storage,$107.03,8,0,$36.09,33.7%
+ORD-2026-0754,2026-04-26,Standard Class,CUST-298,Corporate,West,Furniture,Chairs,$176.19,2,0.3,$40.15,22.8%
+ORD-2026-0755,2026-04-26,Standard Class,CUST-188,Consumer,Central,Office Supplies,Art,$87.22,7,0.3,$17.62,20.2%
+ORD-2026-0756,2026-04-27,Second Class,CUST-242,Corporate,East,Technology,Machines,$63.07,1,0.5,$1.09,1.7%
+ORD-2026-0757,2026-04-28,Second Class,CUST-164,Corporate,South,Furniture,Chairs,$157.32,7,0,$48.13,30.6%
+ORD-2026-0758,2026-04-28,Standard Class,CUST-175,Corporate,South,Technology,Accessories,$35.24,8,0.3,$4.11,11.7%
+ORD-2026-0759,2026-04-29,First Class,CUST-298,Consumer,East,Technology,Accessories,$80.02,2,0,-$5.89,-7.4%
+ORD-2026-0760,2026-04-29,Second Class,CUST-242,Consumer,South,Furniture,Tables,$45.18,9,0.1,$5.22,11.6%
+ORD-2026-0761,2026-04-30,Standard Class,CUST-248,Consumer,East,Technology,Machines,$188.51,1,0.1,$62.96,33.4%
+ORD-2026-0762,2026-05-01,Standard Class,CUST-246,Consumer,West,Technology,Phones,$442.92,6,0,$152.33,34.4%
+ORD-2026-0763,2026-05-01,Standard Class,CUST-159,Home Office,East,Office Supplies,Binders,$820.92,1,0.3,-$28.08,-3.4%
+ORD-2026-0764,2026-05-02,Second Class,CUST-192,Consumer,South,Office Supplies,Appliances,$99.75,3,0,$27.14,27.2%
+ORD-2026-0765,2026-05-03,Standard Class,CUST-260,Consumer,East,Office Supplies,Paper,$53.66,6,0.1,$14.63,27.3%
+ORD-2026-0766,2026-05-03,Standard Class,CUST-148,Consumer,Central,Office Supplies,Storage,$97.73,3,0.2,$2.79,2.9%
+ORD-2026-0767,2026-05-04,Second Class,CUST-134,Corporate,West,Office Supplies,Storage,$291.86,8,0.2,$31.71,10.9%
+ORD-2026-0768,2026-05-05,First Class,CUST-271,Corporate,West,Technology,Machines,$44.60,5,0,$11.40,25.6%
+ORD-2026-0769,2026-05-05,Standard Class,CUST-201,Consumer,East,Furniture,Bookcases,$465.78,2,0,$55.67,12.0%
+ORD-2026-0770,2026-05-06,First Class,CUST-110,Consumer,South,Technology,Phones,$72.75,4,0.2,-$2.54,-3.5%
+ORD-2026-0771,2026-05-06,Standard Class,CUST-198,Consumer,Central,Technology,Phones,$648.22,9,0,$163.96,25.3%
+ORD-2026-0772,2026-05-07,First Class,CUST-299,Consumer,West,Office Supplies,Art,$283.59,4,0,$100.91,35.6%
+ORD-2026-0773,2026-05-08,Standard Class,CUST-209,Corporate,West,Furniture,Bookcases,$257.99,8,0,$58.37,22.6%
+ORD-2026-0774,2026-05-08,Standard Class,CUST-173,Corporate,South,Furniture,Bookcases,$67.39,5,0,$19.33,28.7%
+ORD-2026-0775,2026-05-09,Second Class,CUST-293,Consumer,South,Office Supplies,Appliances,$11.32,1,0.3,$0.63,5.6%
+ORD-2026-0776,2026-05-10,Standard Class,CUST-273,Consumer,Central,Office Supplies,Art,$82.22,7,0,-$0.69,-0.8%
+ORD-2026-0777,2026-05-10,Standard Class,CUST-108,Home Office,East,Technology,Copiers,$63.89,3,0.1,$12.73,19.9%
+ORD-2026-0778,2026-05-11,Second Class,CUST-102,Consumer,South,Office Supplies,Art,$15.72,8,0,$1.00,6.4%
+ORD-2026-0779,2026-05-12,Second Class,CUST-184,Corporate,East,Furniture,Chairs,$115.59,3,0,$38.15,33.0%
+ORD-2026-0780,2026-05-12,Second Class,CUST-125,Consumer,Central,Technology,Accessories,$87.38,1,0,-$3.38,-3.9%
+ORD-2026-0781,2026-05-13,Second Class,CUST-171,Consumer,East,Office Supplies,Paper,$161.00,5,0,$18.79,11.7%
+ORD-2026-0782,2026-05-13,Standard Class,CUST-147,Consumer,West,Furniture,Chairs,$155.61,2,0,$15.31,9.8%
+ORD-2026-0783,2026-05-14,Standard Class,CUST-293,Corporate,East,Office Supplies,Art,$29.30,4,0.1,$9.73,33.2%
+ORD-2026-0784,2026-05-15,Standard Class,CUST-297,Home Office,Central,Furniture,Chairs,$575.61,1,0,-$13.49,-2.3%
+ORD-2026-0785,2026-05-15,Standard Class,CUST-255,Consumer,Central,Technology,Phones,$41.04,9,0,-$3.90,-9.5%
+ORD-2026-0786,2026-05-16,First Class,CUST-216,Consumer,Central,Furniture,Furnishings,$98.39,6,0,$1.87,1.9%
+ORD-2026-0787,2026-05-17,Standard Class,CUST-253,Consumer,East,Office Supplies,Binders,$110.45,8,0,$34.25,31.0%
+ORD-2026-0788,2026-05-17,Standard Class,CUST-252,Consumer,West,Technology,Phones,$261.55,4,0.3,$0.85,0.3%
+ORD-2026-0789,2026-05-18,Standard Class,CUST-111,Consumer,South,Technology,Accessories,$25.68,9,0.1,$0.47,1.8%
+ORD-2026-0790,2026-05-19,First Class,CUST-232,Consumer,West,Technology,Accessories,$93.96,2,0,-$3.29,-3.5%
+ORD-2026-0791,2026-05-19,Standard Class,CUST-147,Corporate,East,Technology,Copiers,$158.53,9,0,$40.86,25.8%
+ORD-2026-0792,2026-05-20,Standard Class,CUST-136,Consumer,East,Furniture,Bookcases,$46.34,5,0.5,-$1.52,-3.3%
+ORD-2026-0793,2026-05-21,Standard Class,CUST-143,Consumer,South,Furniture,Chairs,$158.11,6,0,$10.37,6.6%
+ORD-2026-0794,2026-05-21,Second Class,CUST-114,Home Office,East,Furniture,Chairs,$395.89,3,0.2,$13.06,3.3%
+ORD-2026-0795,2026-05-22,Standard Class,CUST-142,Consumer,Central,Technology,Accessories,$909.81,4,0,$161.56,17.8%
+ORD-2026-0796,2026-05-22,First Class,CUST-275,Home Office,Central,Office Supplies,Binders,$14.95,6,0.3,$2.78,18.6%
+ORD-2026-0797,2026-05-23,First Class,CUST-186,Consumer,Central,Technology,Phones,$50.30,7,0.3,$5.86,11.7%
+ORD-2026-0798,2026-05-24,Standard Class,CUST-169,Home Office,Central,Office Supplies,Appliances,$65.73,1,0.1,$21.62,32.9%
+ORD-2026-0799,2026-05-24,Second Class,CUST-145,Corporate,Central,Office Supplies,Appliances,$86.41,7,0,$32.47,37.6%
+ORD-2026-0800,2026-05-25,First Class,CUST-207,Home Office,East,Office Supplies,Binders,$51.61,1,0,$4.17,8.1%
+ORD-2026-0801,2026-05-26,Second Class,CUST-222,Home Office,South,Furniture,Bookcases,$44.13,5,0,$12.75,28.9%
+ORD-2026-0802,2026-05-26,Standard Class,CUST-270,Consumer,South,Furniture,Tables,$473.68,6,0,$127.61,26.9%
+ORD-2026-0803,2026-05-27,Standard Class,CUST-120,Home Office,Central,Furniture,Furnishings,$386.11,2,0,$133.78,34.6%
+ORD-2026-0804,2026-05-28,Second Class,CUST-250,Consumer,East,Technology,Phones,$17.22,9,0,$2.13,12.4%
+ORD-2026-0805,2026-05-28,Standard Class,CUST-206,Consumer,West,Technology,Machines,$72.06,6,0.1,$10.72,14.9%
+ORD-2026-0806,2026-05-29,Second Class,CUST-179,Consumer,West,Technology,Phones,$87.92,7,0.1,$8.54,9.7%
+ORD-2026-0807,2026-05-29,First Class,CUST-146,Corporate,East,Office Supplies,Art,$50.97,8,0,$16.57,32.5%
+ORD-2026-0808,2026-05-30,First Class,CUST-216,Consumer,Central,Technology,Phones,$158.68,1,0,$2.36,1.5%
+ORD-2026-0809,2026-05-31,Standard Class,CUST-223,Corporate,South,Technology,Machines,$163.41,8,0.5,$1.62,1.0%
+ORD-2026-0810,2026-05-31,Standard Class,CUST-242,Corporate,East,Office Supplies,Paper,$295.07,4,0,$25.47,8.6%
+ORD-2026-0811,2026-06-01,Same Day,CUST-124,Corporate,West,Furniture,Furnishings,$212.56,8,0.2,$2.58,1.2%
+ORD-2026-0812,2026-06-02,First Class,CUST-135,Home Office,West,Furniture,Tables,$127.32,6,0,$22.98,18.0%
+ORD-2026-0813,2026-06-02,Standard Class,CUST-150,Consumer,West,Technology,Phones,$169.02,9,0,-$5.54,-3.3%
+ORD-2026-0814,2026-06-03,First Class,CUST-114,Consumer,Central,Technology,Copiers,$58.03,4,0,$3.49,6.0%
+ORD-2026-0815,2026-06-04,First Class,CUST-167,Consumer,West,Office Supplies,Paper,$144.86,2,0,$51.67,35.7%
+ORD-2026-0816,2026-06-04,Standard Class,CUST-120,Consumer,East,Technology,Machines,$110.77,2,0.2,$9.27,8.4%
+ORD-2026-0817,2026-06-05,Standard Class,CUST-240,Consumer,East,Furniture,Chairs,$31.47,5,0.1,$7.76,24.7%
+ORD-2026-0818,2026-06-05,Standard Class,CUST-118,Consumer,West,Office Supplies,Paper,$51.67,9,0,-$2.24,-4.3%
+ORD-2026-0819,2026-06-06,Standard Class,CUST-133,Consumer,East,Furniture,Furnishings,$61.73,3,0.5,$0.73,1.2%
+ORD-2026-0820,2026-06-07,Standard Class,CUST-177,Home Office,West,Technology,Accessories,$397.17,8,0,$120.61,30.4%
+ORD-2026-0821,2026-06-07,First Class,CUST-224,Corporate,West,Furniture,Bookcases,$49.28,4,0.5,$6.94,14.1%
+ORD-2026-0822,2026-06-08,Standard Class,CUST-295,Consumer,South,Office Supplies,Storage,$61.21,6,0.5,$2.85,4.7%
+ORD-2026-0823,2026-06-09,Standard Class,CUST-216,Corporate,Central,Technology,Copiers,$79.15,6,0,$29.86,37.7%
+ORD-2026-0824,2026-06-09,Standard Class,CUST-151,Consumer,Central,Technology,Copiers,$173.48,3,0,$61.64,35.5%
+ORD-2026-0825,2026-06-10,Standard Class,CUST-126,Consumer,South,Furniture,Chairs,$28.88,5,0,$11.01,38.1%
+ORD-2026-0826,2026-06-11,First Class,CUST-256,Corporate,South,Office Supplies,Appliances,$471.69,3,0.1,$48.38,10.3%
+ORD-2026-0827,2026-06-11,Standard Class,CUST-255,Consumer,Central,Furniture,Chairs,$311.01,1,0.1,-$0.35,-0.1%
+ORD-2026-0828,2026-06-12,Standard Class,CUST-134,Consumer,West,Technology,Machines,$139.13,7,0.5,$14.84,10.7%
+ORD-2026-0829,2026-06-12,Second Class,CUST-235,Home Office,West,Office Supplies,Binders,$178.15,4,0.2,$34.54,19.4%
+ORD-2026-0830,2026-06-13,Standard Class,CUST-243,Home Office,Central,Office Supplies,Appliances,$12.52,7,0,-$0.47,-3.8%
+ORD-2026-0831,2026-06-14,Standard Class,CUST-205,Corporate,West,Furniture,Furnishings,$72.09,3,0,$21.14,29.3%
+ORD-2026-0832,2026-06-14,Standard Class,CUST-263,Corporate,South,Technology,Accessories,$248.20,5,0.1,-$20.32,-8.2%
+ORD-2026-0833,2026-06-15,Standard Class,CUST-257,Corporate,West,Furniture,Chairs,$22.10,5,0,$3.12,14.1%
+ORD-2026-0834,2026-06-16,Standard Class,CUST-245,Consumer,West,Technology,Copiers,$59.76,2,0.2,$3.13,5.2%
+ORD-2026-0835,2026-06-16,Standard Class,CUST-101,Consumer,East,Technology,Machines,$142.03,2,0,$38.37,27.0%
+ORD-2026-0836,2026-06-17,Standard Class,CUST-276,Consumer,East,Furniture,Chairs,$54.44,4,0,$3.07,5.6%
+ORD-2026-0837,2026-06-18,First Class,CUST-176,Consumer,East,Technology,Accessories,$417.67,4,0,$130.90,31.3%
+ORD-2026-0838,2026-06-18,Standard Class,CUST-231,Corporate,West,Technology,Machines,$31.07,4,0.2,$4.91,15.8%
+ORD-2026-0839,2026-06-19,Standard Class,CUST-189,Consumer,Central,Technology,Copiers,$249.47,6,0,$74.08,29.7%
+ORD-2026-0840,2026-06-19,Second Class,CUST-188,Home Office,South,Technology,Phones,$116.38,2,0.2,$36.75,31.6%
+ORD-2026-0841,2026-06-20,Standard Class,CUST-193,Home Office,West,Office Supplies,Storage,$218.14,6,0,$52.26,24.0%
+ORD-2026-0842,2026-06-21,Second Class,CUST-106,Corporate,Central,Office Supplies,Art,$65.82,7,0.2,$20.67,31.4%
+ORD-2026-0843,2026-06-21,Standard Class,CUST-194,Corporate,West,Office Supplies,Appliances,$118.38,3,0.1,-$9.12,-7.7%
+ORD-2026-0844,2026-06-22,Same Day,CUST-207,Home Office,South,Technology,Machines,$301.56,8,0,$20.83,6.9%
+ORD-2026-0845,2026-06-23,Standard Class,CUST-173,Consumer,West,Office Supplies,Binders,$104.35,2,0.2,-$3.85,-3.7%
+ORD-2026-0846,2026-06-23,Standard Class,CUST-138,Corporate,South,Furniture,Bookcases,$76.88,8,0,$2.40,3.1%
+ORD-2026-0847,2026-06-24,Standard Class,CUST-240,Consumer,West,Office Supplies,Appliances,$125.23,5,0,$40.00,31.9%
+ORD-2026-0848,2026-06-25,Same Day,CUST-258,Corporate,South,Office Supplies,Paper,$199.54,2,0,-$16.73,-8.4%
+ORD-2026-0849,2026-06-25,Standard Class,CUST-170,Consumer,West,Furniture,Furnishings,$97.93,7,0.2,$12.54,12.8%
+ORD-2026-0850,2026-06-26,Standard Class,CUST-290,Home Office,South,Technology,Machines,$429.23,2,0.3,$55.15,12.8%
+ORD-2026-0851,2026-06-26,Standard Class,CUST-155,Home Office,East,Office Supplies,Storage,$62.42,6,0.1,$10.14,16.2%
+ORD-2026-0852,2026-06-27,Second Class,CUST-269,Consumer,West,Office Supplies,Art,$106.79,3,0.1,$13.23,12.4%
+ORD-2026-0853,2026-06-28,Standard Class,CUST-288,Consumer,West,Technology,Accessories,$222.16,9,0.2,$52.48,23.6%
+ORD-2026-0854,2026-06-28,First Class,CUST-141,Home Office,Central,Technology,Machines,$185.25,3,0,-$6.16,-3.3%
+ORD-2026-0855,2026-06-29,Standard Class,CUST-283,Consumer,Central,Furniture,Tables,$308.87,3,0.3,$11.95,3.9%
+ORD-2026-0856,2026-06-30,Standard Class,CUST-135,Home Office,South,Office Supplies,Paper,$872.12,5,0,$181.28,20.8%
+ORD-2026-0857,2026-06-30,Standard Class,CUST-183,Corporate,West,Technology,Machines,$93.49,7,0.5,$11.47,12.3%
+ORD-2026-0858,2026-07-01,Standard Class,CUST-295,Consumer,South,Office Supplies,Art,$27.67,8,0.2,$2.26,8.2%
+ORD-2026-0859,2026-07-02,Standard Class,CUST-217,Consumer,East,Office Supplies,Art,$14.63,7,0.2,$3.95,27.0%
+ORD-2026-0860,2026-07-02,Standard Class,CUST-106,Consumer,Central,Technology,Phones,$204.67,9,0.1,$19.85,9.7%
+ORD-2026-0861,2026-07-03,Second Class,CUST-153,Corporate,South,Technology,Machines,$320.74,5,0,$32.52,10.1%
+ORD-2026-0862,2026-07-04,Standard Class,CUST-228,Consumer,South,Technology,Machines,$47.41,3,0.1,-$3.49,-7.4%
+ORD-2026-0863,2026-07-04,Standard Class,CUST-271,Corporate,Central,Technology,Accessories,$35.88,6,0,$6.30,17.6%
+ORD-2026-0864,2026-07-05,Standard Class,CUST-219,Consumer,West,Furniture,Chairs,$19.63,5,0.1,$4.49,22.9%
+ORD-2026-0865,2026-07-05,Standard Class,CUST-272,Corporate,South,Technology,Accessories,$269.49,4,0.1,-$10.38,-3.9%
+ORD-2026-0866,2026-07-06,Standard Class,CUST-205,Home Office,Central,Technology,Accessories,$65.96,2,0.3,$2.43,3.7%
+ORD-2026-0867,2026-07-07,Standard Class,CUST-146,Home Office,West,Office Supplies,Binders,$87.05,7,0.1,$22.77,26.2%
+ORD-2026-0868,2026-07-07,Standard Class,CUST-222,Consumer,East,Furniture,Tables,$114.80,5,0,$9.52,8.3%
+ORD-2026-0869,2026-07-08,First Class,CUST-240,Home Office,Central,Office Supplies,Storage,$284.38,4,0,$5.92,2.1%
+ORD-2026-0870,2026-07-09,First Class,CUST-218,Corporate,South,Technology,Machines,$167.83,8,0.1,$35.66,21.2%
+ORD-2026-0871,2026-07-09,Standard Class,CUST-249,Corporate,East,Furniture,Bookcases,$153.20,9,0,-$0.25,-0.2%
+ORD-2026-0872,2026-07-10,Standard Class,CUST-217,Home Office,West,Office Supplies,Storage,$38.98,9,0,$13.56,34.8%
+ORD-2026-0873,2026-07-11,Second Class,CUST-120,Consumer,West,Furniture,Bookcases,$117.98,3,0.2,-$4.46,-3.8%
+ORD-2026-0874,2026-07-11,Standard Class,CUST-236,Consumer,Central,Technology,Machines,$198.49,3,0.1,$45.25,22.8%
+ORD-2026-0875,2026-07-12,Standard Class,CUST-125,Home Office,Central,Furniture,Chairs,$553.24,5,0.1,$74.58,13.5%
+ORD-2026-0876,2026-07-12,Standard Class,CUST-108,Consumer,Central,Office Supplies,Binders,$43.74,5,0,$14.65,33.5%
+ORD-2026-0877,2026-07-13,Second Class,CUST-114,Home Office,West,Technology,Copiers,$11.44,2,0.2,-$0.34,-3.0%
+ORD-2026-0878,2026-07-14,Second Class,CUST-109,Home Office,East,Office Supplies,Art,$21.74,1,0,$5.19,23.9%
+ORD-2026-0879,2026-07-14,Standard Class,CUST-221,Consumer,West,Technology,Machines,$80.71,8,0.2,$12.01,14.9%
+ORD-2026-0880,2026-07-15,Standard Class,CUST-220,Home Office,South,Technology,Machines,$267.67,3,0,$37.49,14.0%
+ORD-2026-0881,2026-07-16,Standard Class,CUST-224,Consumer,West,Technology,Machines,$11.08,1,0.3,$1.13,10.2%
+ORD-2026-0882,2026-07-16,Second Class,CUST-269,Corporate,South,Furniture,Tables,$101.52,1,0,$26.50,26.1%
+ORD-2026-0883,2026-07-17,Standard Class,CUST-171,Corporate,East,Furniture,Tables,$69.90,2,0,$25.78,36.9%
+ORD-2026-0884,2026-07-18,Standard Class,CUST-251,Home Office,Central,Office Supplies,Storage,$18.09,6,0.1,-$0.89,-4.9%
+ORD-2026-0885,2026-07-18,Second Class,CUST-148,Consumer,Central,Office Supplies,Appliances,$99.74,6,0.1,-$8.10,-8.1%
+ORD-2026-0886,2026-07-19,Standard Class,CUST-253,Consumer,West,Furniture,Furnishings,$54.11,3,0,$16.39,30.3%
+ORD-2026-0887,2026-07-19,Second Class,CUST-190,Corporate,Central,Furniture,Furnishings,$75.05,4,0.2,-$2.76,-3.7%
+ORD-2026-0888,2026-07-20,Standard Class,CUST-136,Corporate,East,Office Supplies,Appliances,$193.43,2,0,$76.09,39.3%
+ORD-2026-0889,2026-07-21,Standard Class,CUST-167,Corporate,Central,Office Supplies,Appliances,$120.58,2,0.3,$17.70,14.7%
+ORD-2026-0890,2026-07-21,Standard Class,CUST-149,Consumer,West,Furniture,Furnishings,$29.97,7,0.2,$5.40,18.0%
+ORD-2026-0891,2026-07-22,Second Class,CUST-251,Consumer,East,Office Supplies,Appliances,$498.23,1,0,-$0.28,-0.1%
+ORD-2026-0892,2026-07-23,First Class,CUST-118,Consumer,South,Technology,Accessories,$161.55,7,0.2,$2.60,1.6%
+ORD-2026-0893,2026-07-23,First Class,CUST-199,Home Office,West,Office Supplies,Art,$227.78,1,0,$52.32,23.0%
+ORD-2026-0894,2026-07-24,Standard Class,CUST-159,Consumer,South,Technology,Accessories,$22.38,6,0,$7.94,35.5%
+ORD-2026-0895,2026-07-25,Second Class,CUST-266,Consumer,East,Furniture,Chairs,$17.23,3,0.5,$3.37,19.6%
+ORD-2026-0896,2026-07-25,Standard Class,CUST-188,Home Office,West,Furniture,Tables,$12.95,8,0.1,-$0.01,-0.1%
+ORD-2026-0897,2026-07-26,Standard Class,CUST-245,Consumer,West,Furniture,Tables,$41.38,6,0,-$1.36,-3.3%
+ORD-2026-0898,2026-07-26,First Class,CUST-246,Home Office,East,Furniture,Bookcases,$90.27,2,0,-$6.48,-7.2%
+ORD-2026-0899,2026-07-27,Standard Class,CUST-263,Corporate,Central,Technology,Copiers,$421.92,8,0,$140.98,33.4%
+ORD-2026-0900,2026-07-28,Standard Class,CUST-282,Home Office,West,Technology,Accessories,$101.61,5,0.5,$2.41,2.4%
+ORD-2026-0901,2026-07-28,Standard Class,CUST-168,Consumer,West,Furniture,Furnishings,$61.43,8,0,-$6.09,-9.9%
+ORD-2026-0902,2026-07-29,Standard Class,CUST-274,Consumer,South,Technology,Accessories,$133.81,8,0,$1.59,1.2%
+ORD-2026-0903,2026-07-30,Standard Class,CUST-148,Corporate,Central,Technology,Machines,$27.81,6,0,$1.95,7.0%
+ORD-2026-0904,2026-07-30,Standard Class,CUST-207,Home Office,South,Technology,Machines,$151.05,2,0,$59.74,39.5%
+ORD-2026-0905,2026-07-31,Standard Class,CUST-260,Corporate,South,Office Supplies,Binders,$136.05,8,0,$22.01,16.2%
+ORD-2026-0906,2026-08-01,First Class,CUST-218,Consumer,Central,Furniture,Furnishings,$245.53,6,0,$0.58,0.2%
+ORD-2026-0907,2026-08-01,First Class,CUST-248,Corporate,Central,Furniture,Furnishings,$657.86,6,0,$44.35,6.7%
+ORD-2026-0908,2026-08-02,Standard Class,CUST-249,Corporate,East,Technology,Copiers,$53.33,8,0,$3.47,6.5%
+ORD-2026-0909,2026-08-02,Standard Class,CUST-275,Corporate,Central,Furniture,Furnishings,$116.90,1,0.3,-$7.38,-6.3%
+ORD-2026-0910,2026-08-03,Standard Class,CUST-136,Corporate,West,Furniture,Tables,$369.31,2,0,-$11.97,-3.2%
+ORD-2026-0911,2026-08-04,Standard Class,CUST-242,Home Office,Central,Furniture,Chairs,$240.70,9,0.2,$47.68,19.8%
+ORD-2026-0912,2026-08-04,Standard Class,CUST-262,Corporate,East,Technology,Phones,$110.24,8,0.2,-$3.52,-3.2%
+ORD-2026-0913,2026-08-05,Second Class,CUST-298,Consumer,East,Technology,Phones,$446.08,7,0.2,$5.48,1.2%
+ORD-2026-0914,2026-08-06,Standard Class,CUST-259,Consumer,East,Office Supplies,Appliances,$18.84,7,0.3,$0.99,5.3%
+ORD-2026-0915,2026-08-06,Standard Class,CUST-110,Consumer,Central,Furniture,Chairs,$411.04,5,0,$114.63,27.9%
+ORD-2026-0916,2026-08-07,Standard Class,CUST-237,Consumer,Central,Technology,Machines,$17.77,2,0,$3.40,19.1%
+ORD-2026-0917,2026-08-08,Standard Class,CUST-177,Consumer,South,Office Supplies,Paper,$128.88,6,0,$31.51,24.4%
+ORD-2026-0918,2026-08-08,First Class,CUST-176,Consumer,South,Technology,Accessories,$341.69,3,0,$62.70,18.3%
+ORD-2026-0919,2026-08-09,Second Class,CUST-284,Consumer,West,Technology,Machines,$55.72,4,0.2,$10.78,19.3%
+ORD-2026-0920,2026-08-09,Standard Class,CUST-252,Consumer,South,Technology,Accessories,$105.87,2,0.1,-$9.39,-8.9%
+ORD-2026-0921,2026-08-10,First Class,CUST-101,Home Office,West,Furniture,Bookcases,$68.81,2,0.3,$17.60,25.6%
+ORD-2026-0922,2026-08-11,Standard Class,CUST-163,Home Office,East,Technology,Machines,$465.93,8,0,-$20.75,-4.5%
+ORD-2026-0923,2026-08-11,First Class,CUST-134,Consumer,South,Furniture,Chairs,$270.29,8,0.3,$19.51,7.2%
+ORD-2026-0924,2026-08-12,Second Class,CUST-106,Home Office,Central,Office Supplies,Art,$195.17,6,0,$55.72,28.5%
+ORD-2026-0925,2026-08-13,Standard Class,CUST-184,Corporate,South,Office Supplies,Paper,$142.87,5,0,$16.80,11.8%
+ORD-2026-0926,2026-08-13,Standard Class,CUST-245,Consumer,West,Technology,Copiers,$267.71,8,0,$99.97,37.3%
+ORD-2026-0927,2026-08-14,Standard Class,CUST-166,Consumer,South,Office Supplies,Appliances,$84.70,4,0.2,$9.07,10.7%
+ORD-2026-0928,2026-08-15,Standard Class,CUST-141,Corporate,East,Technology,Accessories,$99.01,4,0,$33.41,33.7%
+ORD-2026-0929,2026-08-15,Second Class,CUST-217,Corporate,Central,Technology,Copiers,$206.40,5,0.3,$44.13,21.4%
+ORD-2026-0930,2026-08-16,Standard Class,CUST-224,Corporate,West,Furniture,Furnishings,$76.42,1,0.3,$20.89,27.3%
+ORD-2026-0931,2026-08-17,Standard Class,CUST-266,Consumer,Central,Furniture,Bookcases,$19.91,1,0.3,$5.06,25.4%
+ORD-2026-0932,2026-08-17,First Class,CUST-268,Consumer,Central,Office Supplies,Appliances,$21.59,2,0,$7.54,34.9%
+ORD-2026-0933,2026-08-18,Same Day,CUST-123,Consumer,West,Technology,Phones,$28.39,8,0.3,$5.28,18.6%
+ORD-2026-0934,2026-08-18,Standard Class,CUST-287,Consumer,Central,Furniture,Chairs,$315.67,7,0.2,$21.09,6.7%
+ORD-2026-0935,2026-08-19,Standard Class,CUST-145,Consumer,Central,Technology,Accessories,$105.86,9,0,-$4.97,-4.7%
+ORD-2026-0936,2026-08-20,Standard Class,CUST-118,Consumer,South,Office Supplies,Binders,$197.18,5,0,$48.18,24.4%
+ORD-2026-0937,2026-08-20,Standard Class,CUST-167,Home Office,Central,Furniture,Bookcases,$84.86,2,0,$33.04,38.9%
+ORD-2026-0938,2026-08-21,First Class,CUST-201,Home Office,Central,Furniture,Tables,$54.90,7,0,$14.46,26.3%
+ORD-2026-0939,2026-08-22,Standard Class,CUST-141,Consumer,Central,Office Supplies,Storage,$73.97,8,0.1,$24.26,32.8%
+ORD-2026-0940,2026-08-22,Standard Class,CUST-131,Home Office,Central,Furniture,Furnishings,$247.11,7,0.5,$37.33,15.1%
+ORD-2026-0941,2026-08-23,Standard Class,CUST-266,Consumer,West,Office Supplies,Paper,$157.21,7,0,-$2.90,-1.8%
+ORD-2026-0942,2026-08-24,Standard Class,CUST-208,Consumer,East,Furniture,Tables,$426.22,5,0.1,$9.44,2.2%
+ORD-2026-0943,2026-08-24,Second Class,CUST-135,Consumer,South,Office Supplies,Appliances,$180.78,2,0.5,$6.41,3.5%
+ORD-2026-0944,2026-08-25,First Class,CUST-196,Corporate,Central,Furniture,Tables,$136.66,6,0,-$2.17,-1.6%
+ORD-2026-0945,2026-08-25,Standard Class,CUST-263,Home Office,Central,Furniture,Furnishings,$151.32,4,0.3,$20.21,13.4%
+ORD-2026-0946,2026-08-26,Standard Class,CUST-230,Corporate,West,Office Supplies,Appliances,$438.06,2,0.1,$152.86,34.9%
+ORD-2026-0947,2026-08-27,Standard Class,CUST-172,Consumer,East,Office Supplies,Storage,$242.82,9,0.1,$61.35,25.3%
+ORD-2026-0948,2026-08-27,First Class,CUST-235,Corporate,Central,Office Supplies,Appliances,$13.65,7,0,$1.52,11.1%
+ORD-2026-0949,2026-08-28,First Class,CUST-196,Consumer,West,Technology,Accessories,$124.58,6,0.1,-$10.96,-8.8%
+ORD-2026-0950,2026-08-29,Standard Class,CUST-222,Home Office,South,Furniture,Bookcases,$184.88,5,0,$10.47,5.7%
+ORD-2026-0951,2026-08-29,Second Class,CUST-169,Corporate,South,Furniture,Chairs,$217.17,3,0.2,$28.38,13.1%
+ORD-2026-0952,2026-08-30,Second Class,CUST-268,Consumer,Central,Technology,Phones,$45.96,4,0,$2.86,6.2%
+ORD-2026-0953,2026-08-31,Standard Class,CUST-295,Corporate,Central,Technology,Machines,$312.81,3,0.3,-$9.74,-3.1%
+ORD-2026-0954,2026-08-31,First Class,CUST-112,Corporate,East,Office Supplies,Appliances,$478.00,8,0,$58.02,12.1%
+ORD-2026-0955,2026-09-01,Standard Class,CUST-148,Consumer,East,Office Supplies,Binders,$50.52,3,0,$1.35,2.7%
+ORD-2026-0956,2026-09-01,Standard Class,CUST-159,Corporate,Central,Furniture,Bookcases,$331.35,7,0.1,$105.75,31.9%
+ORD-2026-0957,2026-09-02,Standard Class,CUST-229,Consumer,West,Furniture,Tables,$25.30,7,0,-$1.24,-4.9%
+ORD-2026-0958,2026-09-03,Standard Class,CUST-287,Corporate,East,Office Supplies,Appliances,$18.60,7,0.2,-$1.12,-6.0%
+ORD-2026-0959,2026-09-03,Standard Class,CUST-104,Home Office,Central,Office Supplies,Art,$30.76,7,0.5,-$1.50,-4.9%
+ORD-2026-0960,2026-09-04,Second Class,CUST-271,Home Office,East,Office Supplies,Storage,$18.92,2,0.2,$0.97,5.1%
+ORD-2026-0961,2026-09-05,Standard Class,CUST-126,Corporate,Central,Office Supplies,Binders,$289.66,3,0,$66.68,23.0%
+ORD-2026-0962,2026-09-05,Second Class,CUST-259,Corporate,South,Furniture,Chairs,$19.13,9,0.1,$4.57,23.9%
+ORD-2026-0963,2026-09-06,Standard Class,CUST-248,Consumer,Central,Office Supplies,Appliances,$57.55,3,0.1,$6.56,11.4%
+ORD-2026-0964,2026-09-07,Standard Class,CUST-107,Corporate,South,Technology,Machines,$26.43,2,0.2,$5.12,19.4%
+ORD-2026-0965,2026-09-07,Standard Class,CUST-299,Consumer,East,Technology,Copiers,$62.52,9,0,$5.00,8.0%
+ORD-2026-0966,2026-09-08,Standard Class,CUST-149,Consumer,Central,Technology,Copiers,$24.24,9,0,$5.67,23.4%
+ORD-2026-0967,2026-09-08,Second Class,CUST-166,Consumer,East,Technology,Copiers,$175.39,4,0.1,-$12.58,-7.2%
+ORD-2026-0968,2026-09-09,Standard Class,CUST-143,Consumer,South,Technology,Phones,$31.46,9,0,$3.00,9.5%
+ORD-2026-0969,2026-09-10,Standard Class,CUST-224,Corporate,Central,Technology,Copiers,$296.43,3,0,$87.57,29.5%
+ORD-2026-0970,2026-09-10,Standard Class,CUST-157,Consumer,East,Technology,Machines,$264.90,7,0,$79.87,30.2%
+ORD-2026-0971,2026-09-11,Second Class,CUST-102,Corporate,South,Office Supplies,Art,$12.06,7,0.2,$2.49,20.6%
+ORD-2026-0972,2026-09-12,First Class,CUST-185,Consumer,East,Furniture,Chairs,$349.11,8,0.3,$0.52,0.1%
+ORD-2026-0973,2026-09-12,Second Class,CUST-169,Consumer,West,Furniture,Bookcases,$14.41,4,0.1,$0.31,2.2%
+ORD-2026-0974,2026-09-13,Standard Class,CUST-229,Corporate,South,Technology,Accessories,$51.10,3,0,$20.34,39.8%
+ORD-2026-0975,2026-09-14,Standard Class,CUST-271,Consumer,South,Furniture,Bookcases,$14.94,3,0,-$0.72,-4.8%
+ORD-2026-0976,2026-09-14,Standard Class,CUST-101,Consumer,South,Furniture,Tables,$71.39,5,0.5,-$0.35,-0.5%
+ORD-2026-0977,2026-09-15,Standard Class,CUST-201,Corporate,Central,Office Supplies,Appliances,$118.19,1,0.5,-$2.07,-1.8%
+ORD-2026-0978,2026-09-15,Standard Class,CUST-134,Consumer,Central,Technology,Copiers,$248.92,3,0.3,$11.12,4.5%
+ORD-2026-0979,2026-09-16,Standard Class,CUST-197,Home Office,Central,Office Supplies,Art,$71.87,6,0.2,$0.29,0.4%
+ORD-2026-0980,2026-09-17,Standard Class,CUST-129,Consumer,West,Technology,Machines,$193.37,3,0,$28.78,14.9%
+ORD-2026-0981,2026-09-17,Standard Class,CUST-215,Consumer,West,Office Supplies,Art,$41.15,5,0.2,$4.54,11.0%
+ORD-2026-0982,2026-09-18,Second Class,CUST-107,Corporate,South,Furniture,Tables,$218.30,9,0,$76.57,35.1%
+ORD-2026-0983,2026-09-19,Standard Class,CUST-249,Consumer,West,Furniture,Tables,$50.38,2,0,-$4.16,-8.3%
+ORD-2026-0984,2026-09-19,Standard Class,CUST-143,Consumer,East,Technology,Copiers,$33.24,2,0.2,$1.59,4.8%
+ORD-2026-0985,2026-09-20,Second Class,CUST-285,Consumer,South,Office Supplies,Storage,$40.76,6,0,$8.08,19.8%
+ORD-2026-0986,2026-09-21,Standard Class,CUST-135,Consumer,South,Technology,Phones,$40.15,6,0,$8.13,20.2%
+ORD-2026-0987,2026-09-21,Second Class,CUST-296,Home Office,East,Technology,Phones,$117.88,8,0,$16.51,14.0%
+ORD-2026-0988,2026-09-22,Standard Class,CUST-176,Consumer,South,Office Supplies,Art,$289.45,2,0,$89.10,30.8%
+ORD-2026-0989,2026-09-22,Standard Class,CUST-130,Corporate,West,Technology,Copiers,$22.44,9,0.3,-$1.08,-4.8%
+ORD-2026-0990,2026-09-23,First Class,CUST-146,Home Office,Central,Office Supplies,Appliances,$194.12,2,0,$59.74,30.8%
+ORD-2026-0991,2026-09-24,Second Class,CUST-154,Consumer,East,Furniture,Furnishings,$169.35,1,0,$24.96,14.7%
+ORD-2026-0992,2026-09-24,Second Class,CUST-205,Home Office,West,Technology,Accessories,$318.97,2,0,-$10.56,-3.3%
+ORD-2026-0993,2026-09-25,Standard Class,CUST-289,Consumer,East,Office Supplies,Binders,$51.99,7,0,$17.82,34.3%
+ORD-2026-0994,2026-09-26,Standard Class,CUST-257,Home Office,East,Office Supplies,Appliances,$99.71,8,0,$22.40,22.5%
+ORD-2026-0995,2026-09-26,Standard Class,CUST-220,Consumer,South,Furniture,Chairs,$400.20,5,0.1,-$6.57,-1.6%
+ORD-2026-0996,2026-09-27,Standard Class,CUST-154,Corporate,South,Technology,Machines,$171.82,6,0,-$14.29,-8.3%
+ORD-2026-0997,2026-09-28,First Class,CUST-243,Consumer,West,Office Supplies,Storage,$83.84,1,0.2,-$1.97,-2.3%
+ORD-2026-0998,2026-09-28,Standard Class,CUST-111,Consumer,East,Office Supplies,Appliances,$31.13,6,0.5,$3.18,10.2%
+ORD-2026-0999,2026-09-29,Same Day,CUST-244,Corporate,South,Technology,Phones,$55.67,8,0.1,-$0.52,-0.9%
+ORD-2026-1000,2026-09-30,Standard Class,CUST-243,Corporate,South,Office Supplies,Binders,$140.56,3,0,$1.81,1.3%
